@@ -1,0 +1,52 @@
+# Example LoRA SFT hyperparameters (paths are placeholders — set locally).
+# Matches the CAViAR paper recipe for 2B-scale Qwen3-VL / Cosmos-style SFT.
+
+model_name_or_path: Qwen/Qwen3-VL-2B-Instruct   # or local HF cache path
+model_revision: main
+torch_dtype: bfloat16
+
+use_peft: true
+lora_r: 64
+lora_alpha: 128
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+freeze_vision_tower: true
+freeze_mlp_projector: true
+
+# Point to your local ShareGPT / video JSONL after annotations are released
+dataset_name: data/annotations/train.jsonl
+
+bf16: true
+do_eval: false
+eval_strategy: "no"
+gradient_accumulation_steps: 8
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+learning_rate: 2.0e-05
+log_level: info
+logging_steps: 5
+logging_strategy: steps
+lr_scheduler_type: cosine
+packing: false
+max_steps: -1
+num_train_epochs: 3
+output_dir: outputs/qwen3vl_2b_lora
+overwrite_output_dir: true
+per_device_train_batch_size: 1
+push_to_hub: false
+report_to:
+  - tensorboard
+save_strategy: "steps"
+save_steps: 200
+save_total_limit: 3
+seed: 42
+warmup_ratio: 0.1
+dataloader_num_workers: 4

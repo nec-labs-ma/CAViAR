@@ -1,0 +1,33 @@
+# Videos and large media
+*.mp4
+*.avi
+*.mov
+*.mkv
+data/videos/
+data/annotations/
+*.jsonl
+
+# Full dataset files (do not commit until approved)
+train.json
+test.json
+final_accident_qa_dataset_*.json
+holdout/*.json
+holdout/*.jsonl
+
+# Results / checkpoints / secrets
+results/
+outputs/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+.env
+*.pem
+slurm/
+__pycache__/
+*.pyc
+scripts/results/
+.ipynb_checkpoints/
+.DS_Store
+.gradio/
+*.log

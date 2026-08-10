@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use CAViAR, please cite the following paper."
+title: "CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios"
+authors:
+  - family-names: Garg
+    given-names: Sparsh
+  - family-names: Chen
+    given-names: Yi-Wen
+  - name: Vijay
+  - family-names: Aich
+    given-names: Abhishek
+preferred-citation:
+  type: conference-paper
+  title: "CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios"
+  authors:
+    - family-names: Garg
+      given-names: Sparsh
+    - family-names: Chen
+      given-names: Yi-Wen
+    - name: Vijay
+    - family-names: Aich
+      given-names: Abhishek
+  collection-title: "European Conference on Computer Vision (ECCV)"
+  year: 2026

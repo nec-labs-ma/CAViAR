@@ -1,0 +1,19 @@
+[
+  {
+    "video_path": "videos/illustrative_example_0001.mp4",
+    "benchmark": "Weather & Light",
+    "question": "What were the weather conditions when the accident happened?",
+    "gt": "Sunny",
+    "pred": "B",
+    "choices": ["Snowy", "Sunny", "Rainy", "Cloudy"],
+    "correct": true,
+    "note": "ILLUSTRATIVE prediction record for evaluate_results.py demos."
+  },
+  {
+    "video_path": "videos/illustrative_example_0001.mp4",
+    "benchmark": "Faulter Identification",
+    "question": "Which vehicle was at fault for the accident?",
+    "gt": "The gray sedan that failed to maintain a safe following distance.",
+    "pred": "The gray car behind the white SUV caused the crash by following too closely."
+  }
+]

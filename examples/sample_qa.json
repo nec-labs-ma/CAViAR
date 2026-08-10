@@ -1,0 +1,65 @@
+[
+  {
+    "video_path": "videos/illustrative_example_0001.mp4",
+    "note": "ILLUSTRATIVE SAMPLE ONLY — fictional content for schema documentation. Not from the CAViAR release.",
+    "qa_pairs": [
+      {
+        "benchmark": "Dense Captioning",
+        "question": "Provide a detailed, step-by-step description of the events unfolding in the video.",
+        "answer": "On a clear day, a gray sedan traveling in the same lane fails to stop in time and collides with the rear of a white SUV that has slowed for traffic ahead."
+      },
+      {
+        "benchmark": "Dense Captioning",
+        "question": "Summarize the accident that occurred in the video.",
+        "answer": "A rear-end collision between a gray sedan and a white SUV."
+      },
+      {
+        "benchmark": "Weather & Light",
+        "question": "What were the weather conditions when the accident happened?",
+        "answer": "Sunny",
+        "choices": ["Snowy", "Sunny", "Rainy", "Cloudy"],
+        "correct_answer": "Sunny",
+        "correct_index": 1
+      },
+      {
+        "benchmark": "Weather & Light",
+        "question": "What were the lighting conditions at the time of the accident?",
+        "answer": "Day",
+        "choices": ["Day", "Night"],
+        "correct_answer": "Day",
+        "correct_index": 0
+      },
+      {
+        "benchmark": "Road Conditions",
+        "question": "What were the road conditions at the time of the incident?",
+        "answer": "Dry",
+        "choices": ["Dry", "Wet", "Snowy"],
+        "correct_answer": "Dry",
+        "correct_index": 0
+      },
+      {
+        "benchmark": "Accident Type",
+        "question": "What type of accident occurred in the video?",
+        "answer": "Rear End",
+        "choices": ["T-Bone", "Rear End", "Side-by-Side", "head-on", "None"],
+        "correct_answer": "Rear End",
+        "correct_index": 1
+      },
+      {
+        "benchmark": "Faulter Identification",
+        "question": "Which vehicle was at fault for the accident?",
+        "answer": "The gray sedan that failed to maintain a safe following distance."
+      },
+      {
+        "benchmark": "Victim Identification",
+        "question": "Which vehicle was the victim in this accident?",
+        "answer": "The white SUV that was struck from behind."
+      },
+      {
+        "benchmark": "Violation Identification",
+        "question": "What traffic rule was violated in this accident?",
+        "answer": "Failure to maintain a safe following distance, leading to a rear-end collision."
+      }
+    ]
+  }
+]
