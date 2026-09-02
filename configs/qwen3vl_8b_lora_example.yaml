@@ -20,7 +20,8 @@ lora_target_modules:
 freeze_vision_tower: true
 freeze_mlp_projector: true
 
-dataset_name: data/annotations/train.jsonl
+# Train annotations are not in the public val-only release.
+dataset_name: data/train.jsonl
 
 bf16: true
 do_eval: false

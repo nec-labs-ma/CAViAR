@@ -1,16 +1,14 @@
-# Data directory (placeholder)
+# CAViAR annotations (public release)
 
-Full CAViAR annotations and train/test splits will be placed here after institutional approval.
+This directory ships the **Nexar validation/test** annotations only.
 
-**Do not commit** video files or unapproved annotation dumps.
+| File | Description |
+|------|-------------|
+| `test.json` | Nexar val/test split (**749 videos**, **7,407 QA pairs**) |
+| `videos/` | Local video root (gitignored). Set `CAVIAR_VIDEO_ROOT` if videos live elsewhere. |
 
-Suggested layout after release:
+**Not included in this repository:** CCD train annotations, holdout splits, or raw video files.
 
-```
-data/
-  annotations/
-    train.json
-    test.json
-  videos/          # local only; gitignored
-    *.mp4
-```
+`video_path` fields store **filenames only** (e.g. `nexar_00433.mp4`). Scripts join them with `CAVIAR_VIDEO_ROOT` (default: `data/videos/`).
+
+Obtain Nexar clips under the original Nexar license. See [docs/data_schema.md](../docs/data_schema.md) and [docs/data_access.md](../docs/data_access.md).

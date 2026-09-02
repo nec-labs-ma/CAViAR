@@ -1,0 +1,85 @@
+{
+  "video_path": "nexar_00433.mp4",
+  "qa_pairs": [
+    {
+      "benchmark": "Dense Captioning",
+      "question": "Provide a detailed, step-by-step description of the events unfolding in the video.",
+      "answer": "On a sunny day, a vehicle traveling straight collided with a yellow truck. The cause of the accident was the yellow truck failing to observe the road conditions while turning and not using its turn signal, leading to the collision."
+    },
+    {
+      "benchmark": "Dense Captioning",
+      "question": "Summarize the accident that occurred in the video.",
+      "answer": "The accident involved a collision between a vehicle going straight and a yellow truck."
+    },
+    {
+      "benchmark": "Weather & Light",
+      "question": "What were the weather conditions when the accident happened?",
+      "answer": "Sunny",
+      "choices": [
+        "Snowy",
+        "Sunny",
+        "Rainy",
+        "Cloudy"
+      ],
+      "correct_answer": "Sunny",
+      "correct_index": 1
+    },
+    {
+      "benchmark": "Weather & Light",
+      "question": "What were the lighting conditions at the time of the accident?",
+      "answer": "Day",
+      "choices": [
+        "Day",
+        "Night"
+      ],
+      "correct_answer": "Day",
+      "correct_index": 0
+    },
+    {
+      "benchmark": "Accident Type",
+      "question": "What type of accident occurred in the video?",
+      "answer": "Side-by-Side",
+      "choices": [
+        "T-Bone",
+        "Rear End",
+        "Side-by-Side",
+        "head-on",
+        "None"
+      ],
+      "correct_answer": "Side-by-Side",
+      "correct_index": 2
+    },
+    {
+      "benchmark": "Accident Reason",
+      "question": "What was the primary reason for the accident?",
+      "answer": "The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident."
+    },
+    {
+      "benchmark": "Road Conditions",
+      "question": "What were the road conditions at the time of the incident?",
+      "answer": "Dry",
+      "choices": [
+        "Dry",
+        "Wet",
+        "Snowy"
+      ],
+      "correct_answer": "Dry",
+      "correct_index": 0
+    },
+    {
+      "benchmark": "Faulter Identification",
+      "question": "Which vehicle was at fault for the accident?",
+      "answer": "The accident was the fault of the yellow truck driver."
+    },
+    {
+      "benchmark": "Victim Identification",
+      "question": "Which vehicle was the victim in this accident?",
+      "answer": "The victim was the driver of the straight-moving vehicle."
+    },
+    {
+      "benchmark": "Violation Identification",
+      "question": "What specific traffic rule was broken that led to the accident?",
+      "answer": "The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident."
+    }
+  ]
+}

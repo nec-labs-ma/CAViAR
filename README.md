@@ -2,65 +2,119 @@
 
 **Causal Accident Video and Incident Analysis Repository**
 
-A human-annotated dashcam benchmark for fine-grained accident understanding and responsibility reasoning with vision-language models (VLMs).
+A human-annotated dashcam benchmark for fine-grained accident understanding and **responsibility reasoning** with vision-language models (VLMs).
 
-> **Release status:** Evaluation code, prompts, configs, schema, and illustrative examples are available in this repository. **Full CAViAR annotations and train/test splits will be released upon paper acceptance pending institutional approval.** Source videos are obtained from [CCD](https://github.com/Cogito2012/CarCrashDataset) and [Nexar](https://www.nexar.com/); we do **not** redistribute raw video files.
+Paper: *CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios*.
 
-Paper: *CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios* (ECCV 2026 submission).
+Code and annotations: [https://github.com/nec-labs-ma/CAViAR](https://github.com/nec-labs-ma/CAViAR)
+
+> **Public release (this repository):** validation/test annotations for the **Nexar** split (**749 videos**). Train/holdout annotations are not redistributed here. Source videos come from [CCD](https://github.com/Cogito2012/CarCrashDataset) (train) and [Nexar](https://www.nexar.com/) (val/test). This repository **does not redistribute the full video corpora**.
 
 ## What is CAViAR?
 
 | | |
 |---|---|
-| **Videos** | 2,249 real-world dashcam clips (CCD train / Nexar test) |
-| **QA pairs** | ~20,108 structured question–answer pairs |
+| **Full benchmark** | 2,249 real-world dashcam clips (CCD train / Nexar val–test) |
+| **Released here** | Nexar validation/test annotations — **749 videos**, **7,407 QA pairs** |
 | **Tasks** | Dense captioning, weather, lighting, road condition, accident type, at-fault agent, affected agent, rule-violation category |
 | **Focus** | Observational responsibility attribution (not legal liability) |
 
 CAViAR exposes a **Perception–Reasoning Gap**: VLMs can often recognize context (e.g., lighting) but struggle to apply traffic rules to infer responsibility.
 
-## Repository contents (current)
+## Example (Nexar)
+
+Preview of **`nexar_00433.mp4`** (loops in the README):
+
+![Preview of nexar_00433.mp4 from the Nexar dataset](examples/nexar_00433.gif)
+
+**Source video:** `nexar_00433.mp4` from the **Nexar** dashcam dataset ([Moura et al., 2025](https://www.nexar.com/)). This is a short looping preview of the collision window; we do **not** redistribute the Nexar corpus. Obtain clips under the original Nexar license and place them under `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Compact mp4 preview: [`examples/nexar_00433_preview.mp4`](examples/nexar_00433_preview.mp4). Full annotations: [`examples/nexar_00433_annotations.json`](examples/nexar_00433_annotations.json).
+
+| Field | Annotation |
+|-------|------------|
+| **Summary** | The accident involved a collision between a vehicle going straight and a yellow truck. |
+| **Weather** | Sunny |
+| **Lighting** | Day |
+| **Road condition** | Dry |
+| **Accident type** | Side-by-Side |
+| **At-fault agent** | The accident was the fault of the yellow truck driver. |
+| **Affected agent** | The victim was the driver of the straight-moving vehicle. |
+| **Rule violation** | The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident. |
+
+## Repository layout
 
 ```
 CAViAR/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── caviar/                 # Shared utilities (rule ontology mapper)
-├── configs/                # Example LoRA SFT hyperparameter configs
-├── docs/                   # Schema, tasks, prompts, ontology, data access
-├── examples/               # Illustrative QA samples (not the full dataset)
-├── data/                   # Placeholder for upcoming full annotations
-└── scripts/                # Evaluation, baselines, analysis utilities
+├── caviar/                 # Ontology mapper + portable path helpers
+├── configs/                # Example LoRA SFT hyperparameters (train path optional)
+├── data/
+│   ├── test.json           # Nexar val/test annotations (749 videos)
+│   └── videos/             # Local mp4 root (not shipped; gitignored)
+├── docs/                   # Schema, tasks, prompts, ontology
+├── examples/
+│   ├── nexar_00433.gif
+│   ├── nexar_00433_preview.mp4
+│   └── nexar_00433_annotations.json
+└── scripts/                # Evaluation, inference, analysis
 ```
 
-**Not included yet (pending approval):** full `train.json` / `test.json` annotations, prediction dumps, and model checkpoints.
-
-## Quick start
+## Setup
 
 ```bash
-# Optional: install dependencies for metrics
+git clone https://github.com/nec-labs-ma/CAViAR.git
+cd CAViAR
 pip install -r requirements.txt
-
-# Inspect the data schema and illustrative sample
-cat docs/data_schema.md
-python -m json.tool examples/sample_qa.json
-
-# Map free-text rule-violation answers to ontology families
-python -m caviar.ontology --text "failed to maintain a safe following distance"
-
-# After full annotations are released, evaluate model predictions:
-# export OPENAI_API_KEY=...   # only if using LLM-as-Judge
-# python scripts/evaluate_results.py --results path/to/results.json --skip-judge
 ```
 
-## Getting source videos
+Optional extras:
 
-1. Obtain CCD and Nexar videos under their original licenses.
-2. Place them under a local directory, e.g. `data/videos/`.
-3. When full CAViAR annotations are released, set `CAVIAR_VIDEO_ROOT` to that directory; scripts remap paths automatically.
+- VLM inference: `transformers`, `accelerate`, `peft`, `decord`, `pillow`
+- LLM-as-Judge: install [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) and set `CAVIAR_VLMEVALKIT_PATH`
+- Analysis plots: `scikit-learn`, `matplotlib`
 
-See [docs/data_access.md](docs/data_access.md).
+## Quick start (no videos required)
+
+```bash
+# Val/test (Nexar) counts
+python scripts/dataset_stats.py
+
+# Map a free-text violation to a rule family
+python -m caviar.ontology --text "failed to maintain a safe following distance"
+
+# Inspect the Nexar example annotations
+python -m json.tool examples/nexar_00433_annotations.json | head
+
+# Score a tiny illustrative prediction file
+python scripts/evaluate_results.py --results examples/sample_results.json --skip-judge
+```
+
+## Using the Nexar val/test videos
+
+1. Download Nexar clips under the original Nexar license.
+2. Put mp4 files in `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Filenames must match `data/test.json` (e.g. `nexar_00433.mp4`).
+3. Run a VLM on the released val/test split, then score predictions:
+
+```bash
+export CAVIAR_VIDEO_ROOT=/path/to/nexar/videos
+
+python scripts/evaluate_qwen3.py --model 2B
+python scripts/evaluate_results.py \
+  --results results/results_Qwen3-VL-2B.json \
+  --skip-judge
+```
+
+Train-oriented helpers (`convert_to_jsonl.py`, `create_ccd_holdout.py`, LoRA configs) remain for users who obtain CCD train annotations separately; those files are **not** included in this public release.
+
+See [docs/data_access.md](docs/data_access.md) and [scripts/README.md](scripts/README.md).
+
+## Tasks and metrics
+
+| Task | Type | Metric |
+|------|------|--------|
+| Dense captioning | Open | BERTScore-F1 |
+| Weather / lighting / road / accident type | MCQ | Accuracy (+ balanced acc, macro-F1) |
+| At-fault agent, affected agent, rule violation | Open | LLM-as-Judge (0–5) |
+
+Details: [docs/tasks.md](docs/tasks.md), [docs/prompts.md](docs/prompts.md), [docs/ontology.md](docs/ontology.md).
 
 ## Citation
 
@@ -73,14 +127,14 @@ See [docs/data_access.md](docs/data_access.md).
 }
 ```
 
+Please also cite the **Nexar** source dataset when using the released val/test videos or the example above (Moura et al., 2025).
+
 ## Ethics
 
 CAViAR labels are research annotations of *apparent* responsibility cues from video evidence. They are **not** legal determinations of liability and must not be used for adjudication, insurance, enforcement, or decisions about identifiable individuals.
 
-## Contact
-
-For privacy concerns, annotation errors, or takedown requests, please open a GitHub issue on this repository.
+For privacy concerns, annotation errors, or takedown requests, please open a GitHub issue.
 
 ## License
 
-Code in this repository is released under the terms in [LICENSE](LICENSE). Dataset annotations (when released) will carry a separate research-use license stated in `data/`.
+Code is released under [LICENSE](LICENSE) (MIT). Annotations in `data/test.json` are for academic research on accident understanding and rule-relevant multimodal reasoning. Raw CCD and Nexar videos remain under their original dataset licenses.

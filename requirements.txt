@@ -1,0 +1,22 @@
+# Core (dataset stats, baselines, MCQ eval)
+numpy>=1.23
+
+# Optional: open-ended similarity metrics
+nltk>=3.8
+bert-score>=0.3.13
+torch>=2.0
+
+# Optional: analysis scripts
+# scikit-learn
+# matplotlib
+
+# Optional: VLM inference (install the family you need)
+# transformers
+# accelerate
+# peft
+# deepspeed
+# decord
+# pillow
+
+# Optional: LLM-as-Judge via VLMEvalKit OpenAI wrapper
+# Install VLMEvalKit separately and set CAVIAR_VLMEVALKIT_PATH

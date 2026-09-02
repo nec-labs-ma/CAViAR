@@ -1,7 +1,6 @@
-# Example LoRA SFT hyperparameters (paths are placeholders — set locally).
-# Matches the CAViAR paper recipe for 2B-scale Qwen3-VL / Cosmos-style SFT.
+# Example LoRA SFT hyperparameters for the CCD holdout ablation (1,200 train videos).
 
-model_name_or_path: Qwen/Qwen3-VL-2B-Instruct   # or local HF cache path
+model_name_or_path: Qwen/Qwen3-VL-2B-Instruct
 model_revision: main
 torch_dtype: bfloat16
 
@@ -20,9 +19,8 @@ lora_target_modules:
 freeze_vision_tower: true
 freeze_mlp_projector: true
 
-# Train annotations are not in the public val-only release.
-# Point this at a local ShareGPT JSONL if you obtain CCD train data separately.
-dataset_name: data/train.jsonl
+# Holdout train annotations are not in the public val-only release.
+dataset_name: data/holdout/ccd_train.jsonl
 
 bf16: true
 do_eval: false
@@ -39,7 +37,7 @@ lr_scheduler_type: cosine
 packing: false
 max_steps: -1
 num_train_epochs: 3
-output_dir: outputs/qwen3vl_2b_lora
+output_dir: outputs/qwen3vl_2b_holdout
 overwrite_output_dir: true
 per_device_train_batch_size: 1
 push_to_hub: false

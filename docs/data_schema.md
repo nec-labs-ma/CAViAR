@@ -1,17 +1,17 @@
 # CAViAR data schema
 
-Full annotations (pending institutional approval) follow this schema. See `examples/sample_qa.json` for an illustrative record.
+The public release includes the **Nexar val/test** split in `data/test.json`. See `examples/nexar_00433_annotations.json` and `examples/nexar_00433.gif` for a real annotated Nexar example.
 
 ## Top-level video record
 
 ```json
 {
-  "video_path": "videos/example_000001.mp4",
+  "video_path": "nexar_00433.mp4",
   "qa_pairs": [ /* list of QA objects */ ]
 }
 ```
 
-`video_path` is a relative or absolute path to a locally available CCD/Nexar clip. Released annotations will use stable video IDs; users remap to their local video root via `CAVIAR_VIDEO_ROOT`.
+`video_path` is the **filename** of a locally available Nexar clip (e.g. `nexar_00433.mp4`). Scripts resolve it via `CAVIAR_VIDEO_ROOT` (default `data/videos/`).
 
 ## QA object (common fields)
 
@@ -51,9 +51,9 @@ Full annotations (pending institutional approval) follow this schema. See `examp
 
 ## Split design
 
-| Split | Source | Role |
-|-------|--------|------|
-| Train | CCD | Fine-tuning / development |
-| Test | Nexar | Held-out evaluation |
+| Split | Source | Role | In this repo? |
+|-------|--------|------|---------------|
+| Train | CCD | Fine-tuning | No |
+| Val/Test | Nexar | Held-out evaluation | Yes (`data/test.json`) |
 
-No shared video, scene, or device between splits.
+No shared video, scene, or device between CCD and Nexar splits.
