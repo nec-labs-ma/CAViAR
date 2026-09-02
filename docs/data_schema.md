@@ -1,17 +1,17 @@
 # CAViAR data schema
 
-The public release includes the **Nexar val/test** split in `data/test.json`. See `examples/nexar_00433_annotations.json` and `examples/nexar_00433.gif` for a real annotated Nexar example.
+The public release includes the **Nexar val/test** split in `data/test.json`. See `examples/nexar_00284_annotations.json` and `examples/nexar_00284.gif` for a real annotated Nexar example.
 
 ## Top-level video record
 
 ```json
 {
-  "video_path": "nexar_00433.mp4",
+  "video_path": "nexar_00284.mp4",
   "qa_pairs": [ /* list of QA objects */ ]
 }
 ```
 
-`video_path` is the **filename** of a locally available Nexar clip (e.g. `nexar_00433.mp4`). Scripts resolve it via `CAVIAR_VIDEO_ROOT` (default `data/videos/`).
+`video_path` is the **filename** of a locally available Nexar clip (e.g. `nexar_00284.mp4`). Scripts resolve it via `CAVIAR_VIDEO_ROOT` (default `data/videos/`).
 
 ## QA object (common fields)
 

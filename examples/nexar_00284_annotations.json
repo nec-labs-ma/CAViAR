@@ -1,15 +1,15 @@
 {
-  "video_path": "nexar_00433.mp4",
+  "video_path": "nexar_00284.mp4",
   "qa_pairs": [
     {
       "benchmark": "Dense Captioning",
       "question": "Provide a detailed, step-by-step description of the events unfolding in the video.",
-      "answer": "On a sunny day, a vehicle traveling straight collided with a yellow truck. The cause of the accident was the yellow truck failing to observe the road conditions while turning and not using its turn signal, leading to the collision."
+      "answer": "On a sunny day, a vehicle going straight collided with a white car. The accident occurred because the straight-going vehicle ran a red light, and the turning white car couldn't avoid it in time, leading to the crash."
     },
     {
       "benchmark": "Dense Captioning",
       "question": "Summarize the accident that occurred in the video.",
-      "answer": "The accident involved a collision between a vehicle going straight and a yellow truck."
+      "answer": "The accident involved a collision between a straight-moving vehicle and a white sedan.\n"
     },
     {
       "benchmark": "Weather & Light",
@@ -38,7 +38,7 @@
     {
       "benchmark": "Accident Type",
       "question": "What type of accident occurred in the video?",
-      "answer": "Side-by-Side",
+      "answer": "T-Bone",
       "choices": [
         "T-Bone",
         "Rear End",
@@ -46,13 +46,13 @@
         "head-on",
         "None"
       ],
-      "correct_answer": "Side-by-Side",
-      "correct_index": 2
+      "correct_answer": "T-Bone",
+      "correct_index": 0
     },
     {
       "benchmark": "Accident Reason",
       "question": "What was the primary reason for the accident?",
-      "answer": "The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident."
+      "answer": "The driver of the straight-moving vehicle ran a red light, violating the traffic rule that motor vehicles must proceed in an orderly manner according to signal light instructions, resulting in the accident."
     },
     {
       "benchmark": "Road Conditions",
@@ -69,17 +69,17 @@
     {
       "benchmark": "Faulter Identification",
       "question": "Which vehicle was at fault for the accident?",
-      "answer": "The accident was the fault of the yellow truck driver."
+      "answer": "The accident was the fault of the driver of the straight-going vehicle."
     },
     {
       "benchmark": "Victim Identification",
       "question": "Which vehicle was the victim in this accident?",
-      "answer": "The victim was the driver of the straight-moving vehicle."
+      "answer": "The driver of the white car was the victim."
     },
     {
       "benchmark": "Violation Identification",
       "question": "What specific traffic rule was broken that led to the accident?",
-      "answer": "The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident."
+      "answer": "The driver of the straight-moving vehicle ran a red light, violating the traffic rule that motor vehicles must proceed in an orderly manner according to signal light instructions, resulting in the accident."
     }
   ]
 }

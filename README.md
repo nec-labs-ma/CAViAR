@@ -23,22 +23,22 @@ CAViAR exposes a **Perception–Reasoning Gap**: VLMs can often recognize contex
 
 ## Example (Nexar)
 
-Preview of **`nexar_00433.mp4`** (loops in the README):
+Preview of **`nexar_00284.mp4`** (loops in the README):
 
-![Preview of nexar_00433.mp4 from the Nexar dataset](examples/nexar_00433.gif)
+![Preview of nexar_00284.mp4 from the Nexar dataset](examples/nexar_00284.gif)
 
-**Source video:** `nexar_00433.mp4` from the **Nexar** dashcam dataset ([Moura et al., 2025](https://www.nexar.com/)). This is a short looping preview of the collision window; we do **not** redistribute the Nexar corpus. Obtain clips under the original Nexar license and place them under `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Compact mp4 preview: [`examples/nexar_00433_preview.mp4`](examples/nexar_00433_preview.mp4). Full annotations: [`examples/nexar_00433_annotations.json`](examples/nexar_00433_annotations.json).
+**Source video:** `nexar_00284.mp4` from the **Nexar** dashcam dataset ([Moura et al., 2025](https://www.nexar.com/)). This is a short looping preview of the collision window; we do **not** redistribute the Nexar corpus. Obtain clips under the original Nexar license and place them under `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Compact mp4 preview: [`examples/nexar_00284_preview.mp4`](examples/nexar_00284_preview.mp4). Full annotations: [`examples/nexar_00284_annotations.json`](examples/nexar_00284_annotations.json).
 
 | Field | Annotation |
 |-------|------------|
-| **Summary** | The accident involved a collision between a vehicle going straight and a yellow truck. |
+| **Summary** | The accident involved a collision between a straight-moving vehicle and a white sedan. |
 | **Weather** | Sunny |
 | **Lighting** | Day |
 | **Road condition** | Dry |
-| **Accident type** | Side-by-Side |
-| **At-fault agent** | The accident was the fault of the yellow truck driver. |
-| **Affected agent** | The victim was the driver of the straight-moving vehicle. |
-| **Rule violation** | The driver of the yellow truck failed to activate the turn signal when making a turn and did not pay attention to the road conditions, violating the traffic rule that requires turn signals to be activated for at least three seconds when turning, which led to the accident. |
+| **Accident type** | T-Bone |
+| **At-fault agent** | The accident was the fault of the driver of the straight-going vehicle. |
+| **Affected agent** | The driver of the white car was the victim. |
+| **Rule violation** | The driver of the straight-moving vehicle ran a red light, violating the traffic rule that motor vehicles must proceed in an orderly manner according to signal light instructions, resulting in the accident. |
 
 ## Repository layout
 
@@ -51,9 +51,9 @@ CAViAR/
 │   └── videos/             # Local mp4 root (not shipped; gitignored)
 ├── docs/                   # Schema, tasks, prompts, ontology
 ├── examples/
-│   ├── nexar_00433.gif
-│   ├── nexar_00433_preview.mp4
-│   └── nexar_00433_annotations.json
+│   ├── nexar_00284.gif
+│   ├── nexar_00284_preview.mp4
+│   └── nexar_00284_annotations.json
 └── scripts/                # Evaluation, inference, analysis
 ```
 
@@ -81,7 +81,7 @@ python scripts/dataset_stats.py
 python -m caviar.ontology --text "failed to maintain a safe following distance"
 
 # Inspect the Nexar example annotations
-python -m json.tool examples/nexar_00433_annotations.json | head
+python -m json.tool examples/nexar_00284_annotations.json | head
 
 # Score a tiny illustrative prediction file
 python scripts/evaluate_results.py --results examples/sample_results.json --skip-judge
@@ -90,7 +90,7 @@ python scripts/evaluate_results.py --results examples/sample_results.json --skip
 ## Using the Nexar val/test videos
 
 1. Download Nexar clips under the original Nexar license.
-2. Put mp4 files in `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Filenames must match `data/test.json` (e.g. `nexar_00433.mp4`).
+2. Put mp4 files in `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Filenames must match `data/test.json` (e.g. `nexar_00284.mp4`).
 3. Run a VLM on the released val/test split, then score predictions:
 
 ```bash

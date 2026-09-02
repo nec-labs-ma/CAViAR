@@ -3,7 +3,7 @@
 *.avi
 *.mov
 *.mkv
-!examples/nexar_00433_preview.mp4
+!examples/nexar_00284_preview.mp4
 data/videos/*
 !data/videos/.gitkeep
 
