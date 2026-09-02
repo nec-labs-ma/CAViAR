@@ -119,10 +119,10 @@ Details: [docs/tasks.md](docs/tasks.md), [docs/prompts.md](docs/prompts.md), [do
 ## Citation
 
 ```bibtex
-@inproceedings{garg2026caviar,
+@article{garg2026caviar,
   title={CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios},
-  author={Garg, Sparsh and Chen, Yi-Wen and Vijay and Aich, Abhishek},
-  booktitle={European Conference on Computer Vision (ECCV)},
+  author={Garg, Sparsh and Chen, Yi-Wen and Aich, Abhishek and others},
+  journal={arXiv preprint arXiv:2608.19380},
   year={2026}
 }
 ```
