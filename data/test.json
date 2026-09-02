@@ -1,6 +1,6 @@
 [
   {
-    "video_path": "nexar_00776.mp4",
+    "video_path": "00776",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "video_path": "nexar_00491.mp4",
+    "video_path": "00491",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "video_path": "nexar_00989.mp4",
+    "video_path": "00989",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "video_path": "nexar_00659.mp4",
+    "video_path": "00659",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "video_path": "nexar_00960.mp4",
+    "video_path": "00960",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -425,7 +425,7 @@
     ]
   },
   {
-    "video_path": "nexar_00478.mp4",
+    "video_path": "00478",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "video_path": "nexar_00804.mp4",
+    "video_path": "00804",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "video_path": "nexar_00557.mp4",
+    "video_path": "00557",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -680,7 +680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00433.mp4",
+    "video_path": "00433",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00288.mp4",
+    "video_path": "00288",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -850,7 +850,7 @@
     ]
   },
   {
-    "video_path": "nexar_00124.mp4",
+    "video_path": "00124",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -935,7 +935,7 @@
     ]
   },
   {
-    "video_path": "nexar_00040.mp4",
+    "video_path": "00040",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1020,7 +1020,7 @@
     ]
   },
   {
-    "video_path": "nexar_00566.mp4",
+    "video_path": "00566",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1105,7 +1105,7 @@
     ]
   },
   {
-    "video_path": "nexar_00449.mp4",
+    "video_path": "00449",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1190,7 +1190,7 @@
     ]
   },
   {
-    "video_path": "nexar_00835.mp4",
+    "video_path": "00835",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1275,7 +1275,7 @@
     ]
   },
   {
-    "video_path": "nexar_00071.mp4",
+    "video_path": "00071",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1360,7 +1360,7 @@
     ]
   },
   {
-    "video_path": "nexar_00098.mp4",
+    "video_path": "00098",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1445,7 +1445,7 @@
     ]
   },
   {
-    "video_path": "nexar_00334.mp4",
+    "video_path": "00334",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1530,7 +1530,7 @@
     ]
   },
   {
-    "video_path": "nexar_00250.mp4",
+    "video_path": "00250",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1615,7 +1615,7 @@
     ]
   },
   {
-    "video_path": "nexar_00668.mp4",
+    "video_path": "00668",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1685,7 +1685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00897.mp4",
+    "video_path": "00897",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1755,7 +1755,7 @@
     ]
   },
   {
-    "video_path": "nexar_00747.mp4",
+    "video_path": "00747",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "video_path": "nexar_00623.mp4",
+    "video_path": "00623",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -1925,7 +1925,7 @@
     ]
   },
   {
-    "video_path": "nexar_00013.mp4",
+    "video_path": "00013",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2010,7 +2010,7 @@
     ]
   },
   {
-    "video_path": "nexar_00177.mp4",
+    "video_path": "00177",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2095,7 +2095,7 @@
     ]
   },
   {
-    "video_path": "nexar_00058.mp4",
+    "video_path": "00058",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2180,7 +2180,7 @@
     ]
   },
   {
-    "video_path": "nexar_00290.mp4",
+    "video_path": "00290",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2265,7 +2265,7 @@
     ]
   },
   {
-    "video_path": "nexar_00460.mp4",
+    "video_path": "00460",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2350,7 +2350,7 @@
     ]
   },
   {
-    "video_path": "nexar_00978.mp4",
+    "video_path": "00978",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2435,7 +2435,7 @@
     ]
   },
   {
-    "video_path": "nexar_00857.mp4",
+    "video_path": "00857",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2520,7 +2520,7 @@
     ]
   },
   {
-    "video_path": "nexar_00787.mp4",
+    "video_path": "00787",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2605,7 +2605,7 @@
     ]
   },
   {
-    "video_path": "nexar_00725.mp4",
+    "video_path": "00725",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2690,7 +2690,7 @@
     ]
   },
   {
-    "video_path": "nexar_00641.mp4",
+    "video_path": "00641",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2775,7 +2775,7 @@
     ]
   },
   {
-    "video_path": "nexar_00991.mp4",
+    "video_path": "00991",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2860,7 +2860,7 @@
     ]
   },
   {
-    "video_path": "nexar_00356.mp4",
+    "video_path": "00356",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -2945,7 +2945,7 @@
     ]
   },
   {
-    "video_path": "nexar_00232.mp4",
+    "video_path": "00232",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3030,7 +3030,7 @@
     ]
   },
   {
-    "video_path": "nexar_00670.mp4",
+    "video_path": "00670",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3115,7 +3115,7 @@
     ]
   },
   {
-    "video_path": "nexar_00714.mp4",
+    "video_path": "00714",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3200,7 +3200,7 @@
     ]
   },
   {
-    "video_path": "nexar_00597.mp4",
+    "video_path": "00597",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3285,7 +3285,7 @@
     ]
   },
   {
-    "video_path": "nexar_01012.mp4",
+    "video_path": "01012",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3370,7 +3370,7 @@
     ]
   },
   {
-    "video_path": "nexar_00022.mp4",
+    "video_path": "00022",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3455,7 +3455,7 @@
     ]
   },
   {
-    "video_path": "nexar_00902.mp4",
+    "video_path": "00902",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3540,7 +3540,7 @@
     ]
   },
   {
-    "video_path": "nexar_00866.mp4",
+    "video_path": "00866",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3625,7 +3625,7 @@
     ]
   },
   {
-    "video_path": "nexar_00949.mp4",
+    "video_path": "00949",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3710,7 +3710,7 @@
     ]
   },
   {
-    "video_path": "nexar_00699.mp4",
+    "video_path": "00699",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3795,7 +3795,7 @@
     ]
   },
   {
-    "video_path": "nexar_00831.mp4",
+    "video_path": "00831",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3880,7 +3880,7 @@
     ]
   },
   {
-    "video_path": "nexar_00955.mp4",
+    "video_path": "00955",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -3965,7 +3965,7 @@
     ]
   },
   {
-    "video_path": "nexar_00529.mp4",
+    "video_path": "00529",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4050,7 +4050,7 @@
     ]
   },
   {
-    "video_path": "nexar_00406.mp4",
+    "video_path": "00406",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4135,7 +4135,7 @@
     ]
   },
   {
-    "video_path": "nexar_00562.mp4",
+    "video_path": "00562",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4220,7 +4220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00392.mp4",
+    "video_path": "00392",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4305,7 +4305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00111.mp4",
+    "video_path": "00111",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4390,7 +4390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00330.mp4",
+    "video_path": "00330",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4475,7 +4475,7 @@
     ]
   },
   {
-    "video_path": "nexar_00254.mp4",
+    "video_path": "00254",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4560,7 +4560,7 @@
     ]
   },
   {
-    "video_path": "nexar_00627.mp4",
+    "video_path": "00627",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4645,7 +4645,7 @@
     ]
   },
   {
-    "video_path": "nexar_00265.mp4",
+    "video_path": "00265",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4730,7 +4730,7 @@
     ]
   },
   {
-    "video_path": "nexar_00301.mp4",
+    "video_path": "00301",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4815,7 +4815,7 @@
     ]
   },
   {
-    "video_path": "nexar_00495.mp4",
+    "video_path": "00495",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4900,7 +4900,7 @@
     ]
   },
   {
-    "video_path": "nexar_00739.mp4",
+    "video_path": "00739",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -4985,7 +4985,7 @@
     ]
   },
   {
-    "video_path": "nexar_00553.mp4",
+    "video_path": "00553",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5070,7 +5070,7 @@
     ]
   },
   {
-    "video_path": "nexar_00437.mp4",
+    "video_path": "00437",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5155,7 +5155,7 @@
     ]
   },
   {
-    "video_path": "nexar_00964.mp4",
+    "video_path": "00964",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5240,7 +5240,7 @@
     ]
   },
   {
-    "video_path": "nexar_00044.mp4",
+    "video_path": "00044",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5325,7 +5325,7 @@
     ]
   },
   {
-    "video_path": "nexar_00593.mp4",
+    "video_path": "00593",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5410,7 +5410,7 @@
     ]
   },
   {
-    "video_path": "nexar_00674.mp4",
+    "video_path": "00674",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5495,7 +5495,7 @@
     ]
   },
   {
-    "video_path": "nexar_00710.mp4",
+    "video_path": "00710",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5580,7 +5580,7 @@
     ]
   },
   {
-    "video_path": "nexar_01016.mp4",
+    "video_path": "01016",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5665,7 +5665,7 @@
     ]
   },
   {
-    "video_path": "nexar_00328.mp4",
+    "video_path": "00328",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5750,7 +5750,7 @@
     ]
   },
   {
-    "video_path": "nexar_00084.mp4",
+    "video_path": "00084",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5835,7 +5835,7 @@
     ]
   },
   {
-    "video_path": "nexar_00207.mp4",
+    "video_path": "00207",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -5920,7 +5920,7 @@
     ]
   },
   {
-    "video_path": "nexar_00363.mp4",
+    "video_path": "00363",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6005,7 +6005,7 @@
     ]
   },
   {
-    "video_path": "nexar_00142.mp4",
+    "video_path": "00142",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6090,7 +6090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00026.mp4",
+    "video_path": "00026",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6175,7 +6175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00109.mp4",
+    "video_path": "00109",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6260,7 +6260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00455.mp4",
+    "video_path": "00455",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6345,7 +6345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00906.mp4",
+    "video_path": "00906",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6430,7 +6430,7 @@
     ]
   },
   {
-    "video_path": "nexar_00138.mp4",
+    "video_path": "00138",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6515,7 +6515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00294.mp4",
+    "video_path": "00294",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6600,7 +6600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00017.mp4",
+    "video_path": "00017",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6685,7 +6685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00173.mp4",
+    "video_path": "00173",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6770,7 +6770,7 @@
     ]
   },
   {
-    "video_path": "nexar_00937.mp4",
+    "video_path": "00937",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6855,7 +6855,7 @@
     ]
   },
   {
-    "video_path": "nexar_00783.mp4",
+    "video_path": "00783",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -6940,7 +6940,7 @@
     ]
   },
   {
-    "video_path": "nexar_00464.mp4",
+    "video_path": "00464",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7025,7 +7025,7 @@
     ]
   },
   {
-    "video_path": "nexar_00818.mp4",
+    "video_path": "00818",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7110,7 +7110,7 @@
     ]
   },
   {
-    "video_path": "nexar_00500.mp4",
+    "video_path": "00500",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7195,7 +7195,7 @@
     ]
   },
   {
-    "video_path": "nexar_00645.mp4",
+    "video_path": "00645",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7280,7 +7280,7 @@
     ]
   },
   {
-    "video_path": "nexar_00995.mp4",
+    "video_path": "00995",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7365,7 +7365,7 @@
     ]
   },
   {
-    "video_path": "nexar_00236.mp4",
+    "video_path": "00236",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7450,7 +7450,7 @@
     ]
   },
   {
-    "video_path": "nexar_00319.mp4",
+    "video_path": "00319",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7535,7 +7535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00547.mp4",
+    "video_path": "00547",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7620,7 +7620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00423.mp4",
+    "video_path": "00423",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7705,7 +7705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00970.mp4",
+    "video_path": "00970",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7790,7 +7790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00298.mp4",
+    "video_path": "00298",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7875,7 +7875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00271.mp4",
+    "video_path": "00271",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -7960,7 +7960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00481.mp4",
+    "video_path": "00481",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8045,7 +8045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00602.mp4",
+    "video_path": "00602",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8130,7 +8130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00766.mp4",
+    "video_path": "00766",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8215,7 +8215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00324.mp4",
+    "video_path": "00324",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8300,7 +8300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00240.mp4",
+    "video_path": "00240",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8385,7 +8385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00757.mp4",
+    "video_path": "00757",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8470,7 +8470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00633.mp4",
+    "video_path": "00633",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8555,7 +8555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00887.mp4",
+    "video_path": "00887",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8640,7 +8640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00678.mp4",
+    "video_path": "00678",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8700,7 +8700,7 @@
     ]
   },
   {
-    "video_path": "nexar_00825.mp4",
+    "video_path": "00825",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8785,7 +8785,7 @@
     ]
   },
   {
-    "video_path": "nexar_00459.mp4",
+    "video_path": "00459",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8870,7 +8870,7 @@
     ]
   },
   {
-    "video_path": "nexar_00691.mp4",
+    "video_path": "00691",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -8955,7 +8955,7 @@
     ]
   },
   {
-    "video_path": "nexar_00061.mp4",
+    "video_path": "00061",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9040,7 +9040,7 @@
     ]
   },
   {
-    "video_path": "nexar_00105.mp4",
+    "video_path": "00105",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9125,7 +9125,7 @@
     ]
   },
   {
-    "video_path": "nexar_00981.mp4",
+    "video_path": "00981",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9210,7 +9210,7 @@
     ]
   },
   {
-    "video_path": "nexar_00735.mp4",
+    "video_path": "00735",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9295,7 +9295,7 @@
     ]
   },
   {
-    "video_path": "nexar_00651.mp4",
+    "video_path": "00651",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9380,7 +9380,7 @@
     ]
   },
   {
-    "video_path": "nexar_00222.mp4",
+    "video_path": "00222",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9465,7 +9465,7 @@
     ]
   },
   {
-    "video_path": "nexar_01033.mp4",
+    "video_path": "01033",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9550,7 +9550,7 @@
     ]
   },
   {
-    "video_path": "nexar_00269.mp4",
+    "video_path": "00269",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9635,7 +9635,7 @@
     ]
   },
   {
-    "video_path": "nexar_00048.mp4",
+    "video_path": "00048",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9720,7 +9720,7 @@
     ]
   },
   {
-    "video_path": "nexar_00003.mp4",
+    "video_path": "00003",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9805,7 +9805,7 @@
     ]
   },
   {
-    "video_path": "nexar_00167.mp4",
+    "video_path": "00167",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9890,7 +9890,7 @@
     ]
   },
   {
-    "video_path": "nexar_00847.mp4",
+    "video_path": "00847",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -9960,7 +9960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00923.mp4",
+    "video_path": "00923",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10045,7 +10045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00968.mp4",
+    "video_path": "00968",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10130,7 +10130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00032.mp4",
+    "video_path": "00032",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10215,7 +10215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00079.mp4",
+    "video_path": "00079",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10300,7 +10300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00959.mp4",
+    "video_path": "00959",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10385,7 +10385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00441.mp4",
+    "video_path": "00441",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10470,7 +10470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00912.mp4",
+    "video_path": "00912",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10540,7 +10540,7 @@
     ]
   },
   {
-    "video_path": "nexar_00876.mp4",
+    "video_path": "00876",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10625,7 +10625,7 @@
     ]
   },
   {
-    "video_path": "nexar_00587.mp4",
+    "video_path": "00587",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10710,7 +10710,7 @@
     ]
   },
   {
-    "video_path": "nexar_00660.mp4",
+    "video_path": "00660",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10795,7 +10795,7 @@
     ]
   },
   {
-    "video_path": "nexar_00704.mp4",
+    "video_path": "00704",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10880,7 +10880,7 @@
     ]
   },
   {
-    "video_path": "nexar_00090.mp4",
+    "video_path": "00090",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -10965,7 +10965,7 @@
     ]
   },
   {
-    "video_path": "nexar_01002.mp4",
+    "video_path": "01002",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11050,7 +11050,7 @@
     ]
   },
   {
-    "video_path": "nexar_00213.mp4",
+    "video_path": "00213",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11135,7 +11135,7 @@
     ]
   },
   {
-    "video_path": "nexar_00320.mp4",
+    "video_path": "00320",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11220,7 +11220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00244.mp4",
+    "video_path": "00244",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11305,7 +11305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00753.mp4",
+    "video_path": "00753",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11390,7 +11390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00637.mp4",
+    "video_path": "00637",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11475,7 +11475,7 @@
     ]
   },
   {
-    "video_path": "nexar_00883.mp4",
+    "video_path": "00883",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11560,7 +11560,7 @@
     ]
   },
   {
-    "video_path": "nexar_00416.mp4",
+    "video_path": "00416",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11645,7 +11645,7 @@
     ]
   },
   {
-    "video_path": "nexar_00539.mp4",
+    "video_path": "00539",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11730,7 +11730,7 @@
     ]
   },
   {
-    "video_path": "nexar_00945.mp4",
+    "video_path": "00945",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11815,7 +11815,7 @@
     ]
   },
   {
-    "video_path": "nexar_00695.mp4",
+    "video_path": "00695",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11900,7 +11900,7 @@
     ]
   },
   {
-    "video_path": "nexar_00065.mp4",
+    "video_path": "00065",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -11985,7 +11985,7 @@
     ]
   },
   {
-    "video_path": "nexar_00382.mp4",
+    "video_path": "00382",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12070,7 +12070,7 @@
     ]
   },
   {
-    "video_path": "nexar_00810.mp4",
+    "video_path": "00810",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12155,7 +12155,7 @@
     ]
   },
   {
-    "video_path": "nexar_00543.mp4",
+    "video_path": "00543",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12240,7 +12240,7 @@
     ]
   },
   {
-    "video_path": "nexar_00427.mp4",
+    "video_path": "00427",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12325,7 +12325,7 @@
     ]
   },
   {
-    "video_path": "nexar_00130.mp4",
+    "video_path": "00130",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12410,7 +12410,7 @@
     ]
   },
   {
-    "video_path": "nexar_00054.mp4",
+    "video_path": "00054",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12495,7 +12495,7 @@
     ]
   },
   {
-    "video_path": "nexar_00275.mp4",
+    "video_path": "00275",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12580,7 +12580,7 @@
     ]
   },
   {
-    "video_path": "nexar_00311.mp4",
+    "video_path": "00311",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12665,7 +12665,7 @@
     ]
   },
   {
-    "video_path": "nexar_00192.mp4",
+    "video_path": "00192",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12750,7 +12750,7 @@
     ]
   },
   {
-    "video_path": "nexar_00606.mp4",
+    "video_path": "00606",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12835,7 +12835,7 @@
     ]
   },
   {
-    "video_path": "nexar_00762.mp4",
+    "video_path": "00762",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -12920,7 +12920,7 @@
     ]
   },
   {
-    "video_path": "nexar_00729.mp4",
+    "video_path": "00729",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13005,7 +13005,7 @@
     ]
   },
   {
-    "video_path": "nexar_00485.mp4",
+    "video_path": "00485",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13090,7 +13090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00119.mp4",
+    "video_path": "00119",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13175,7 +13175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00152.mp4",
+    "video_path": "00152",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13260,7 +13260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00036.mp4",
+    "video_path": "00036",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13345,7 +13345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00916.mp4",
+    "video_path": "00916",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13430,7 +13430,7 @@
     ]
   },
   {
-    "video_path": "nexar_00872.mp4",
+    "video_path": "00872",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13515,7 +13515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00521.mp4",
+    "video_path": "00521",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13600,7 +13600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00839.mp4",
+    "video_path": "00839",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13685,7 +13685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00664.mp4",
+    "video_path": "00664",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13770,7 +13770,7 @@
     ]
   },
   {
-    "video_path": "nexar_00700.mp4",
+    "video_path": "00700",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13855,7 +13855,7 @@
     ]
   },
   {
-    "video_path": "nexar_00583.mp4",
+    "video_path": "00583",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -13940,7 +13940,7 @@
     ]
   },
   {
-    "video_path": "nexar_00217.mp4",
+    "video_path": "00217",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14025,7 +14025,7 @@
     ]
   },
   {
-    "video_path": "nexar_00373.mp4",
+    "video_path": "00373",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14110,7 +14110,7 @@
     ]
   },
   {
-    "video_path": "nexar_00985.mp4",
+    "video_path": "00985",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14195,7 +14195,7 @@
     ]
   },
   {
-    "video_path": "nexar_00731.mp4",
+    "video_path": "00731",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14280,7 +14280,7 @@
     ]
   },
   {
-    "video_path": "nexar_00655.mp4",
+    "video_path": "00655",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14365,7 +14365,7 @@
     ]
   },
   {
-    "video_path": "nexar_00309.mp4",
+    "video_path": "00309",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14450,7 +14450,7 @@
     ]
   },
   {
-    "video_path": "nexar_01037.mp4",
+    "video_path": "01037",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14535,7 +14535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00342.mp4",
+    "video_path": "00342",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14620,7 +14620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00226.mp4",
+    "video_path": "00226",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14705,7 +14705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00007.mp4",
+    "video_path": "00007",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14790,7 +14790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00163.mp4",
+    "video_path": "00163",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14875,7 +14875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00284.mp4",
+    "video_path": "00284",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -14960,7 +14960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00128.mp4",
+    "video_path": "00128",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15045,7 +15045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00474.mp4",
+    "video_path": "00474",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15130,7 +15130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00510.mp4",
+    "video_path": "00510",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15215,7 +15215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00793.mp4",
+    "video_path": "00793",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15300,7 +15300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00843.mp4",
+    "video_path": "00843",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15385,7 +15385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00927.mp4",
+    "video_path": "00927",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15470,7 +15470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00135.mp4",
+    "video_path": "00135",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15555,7 +15555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00971.mp4",
+    "video_path": "00971",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15640,7 +15640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00469.mp4",
+    "video_path": "00469",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15725,7 +15725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00546.mp4",
+    "video_path": "00546",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15810,7 +15810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00422.mp4",
+    "video_path": "00422",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15895,7 +15895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00603.mp4",
+    "video_path": "00603",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -15980,7 +15980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00648.mp4",
+    "video_path": "00648",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16065,7 +16065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00480.mp4",
+    "video_path": "00480",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16150,7 +16150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00998.mp4",
+    "video_path": "00998",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16235,7 +16235,7 @@
     ]
   },
   {
-    "video_path": "nexar_00270.mp4",
+    "video_path": "00270",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16320,7 +16320,7 @@
     ]
   },
   {
-    "video_path": "nexar_00325.mp4",
+    "video_path": "00325",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16405,7 +16405,7 @@
     ]
   },
   {
-    "video_path": "nexar_00089.mp4",
+    "video_path": "00089",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16490,7 +16490,7 @@
     ]
   },
   {
-    "video_path": "nexar_00060.mp4",
+    "video_path": "00060",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16575,7 +16575,7 @@
     ]
   },
   {
-    "video_path": "nexar_00104.mp4",
+    "video_path": "00104",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16660,7 +16660,7 @@
     ]
   },
   {
-    "video_path": "nexar_00387.mp4",
+    "video_path": "00387",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16745,7 +16745,7 @@
     ]
   },
   {
-    "video_path": "nexar_00413.mp4",
+    "video_path": "00413",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16830,7 +16830,7 @@
     ]
   },
   {
-    "video_path": "nexar_00577.mp4",
+    "video_path": "00577",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -16915,7 +16915,7 @@
     ]
   },
   {
-    "video_path": "nexar_00824.mp4",
+    "video_path": "00824",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17000,7 +17000,7 @@
     ]
   },
   {
-    "video_path": "nexar_00458.mp4",
+    "video_path": "00458",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17085,7 +17085,7 @@
     ]
   },
   {
-    "video_path": "nexar_00940.mp4",
+    "video_path": "00940",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17170,7 +17170,7 @@
     ]
   },
   {
-    "video_path": "nexar_00690.mp4",
+    "video_path": "00690",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17255,7 +17255,7 @@
     ]
   },
   {
-    "video_path": "nexar_00223.mp4",
+    "video_path": "00223",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17340,7 +17340,7 @@
     ]
   },
   {
-    "video_path": "nexar_00980.mp4",
+    "video_path": "00980",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17425,7 +17425,7 @@
     ]
   },
   {
-    "video_path": "nexar_00498.mp4",
+    "video_path": "00498",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17510,7 +17510,7 @@
     ]
   },
   {
-    "video_path": "nexar_00734.mp4",
+    "video_path": "00734",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17595,7 +17595,7 @@
     ]
   },
   {
-    "video_path": "nexar_00650.mp4",
+    "video_path": "00650",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17680,7 +17680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00471.mp4",
+    "video_path": "00471",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17765,7 +17765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00515.mp4",
+    "video_path": "00515",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17850,7 +17850,7 @@
     ]
   },
   {
-    "video_path": "nexar_00846.mp4",
+    "video_path": "00846",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -17935,7 +17935,7 @@
     ]
   },
   {
-    "video_path": "nexar_00166.mp4",
+    "video_path": "00166",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18020,7 +18020,7 @@
     ]
   },
   {
-    "video_path": "nexar_00049.mp4",
+    "video_path": "00049",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18105,7 +18105,7 @@
     ]
   },
   {
-    "video_path": "nexar_00913.mp4",
+    "video_path": "00913",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18190,7 +18190,7 @@
     ]
   },
   {
-    "video_path": "nexar_00877.mp4",
+    "video_path": "00877",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18275,7 +18275,7 @@
     ]
   },
   {
-    "video_path": "nexar_00688.mp4",
+    "video_path": "00688",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18360,7 +18360,7 @@
     ]
   },
   {
-    "video_path": "nexar_00958.mp4",
+    "video_path": "00958",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18445,7 +18445,7 @@
     ]
   },
   {
-    "video_path": "nexar_00440.mp4",
+    "video_path": "00440",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18530,7 +18530,7 @@
     ]
   },
   {
-    "video_path": "nexar_00078.mp4",
+    "video_path": "00078",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18615,7 +18615,7 @@
     ]
   },
   {
-    "video_path": "nexar_00157.mp4",
+    "video_path": "00157",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18700,7 +18700,7 @@
     ]
   },
   {
-    "video_path": "nexar_00376.mp4",
+    "video_path": "00376",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18785,7 +18785,7 @@
     ]
   },
   {
-    "video_path": "nexar_01003.mp4",
+    "video_path": "01003",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18870,7 +18870,7 @@
     ]
   },
   {
-    "video_path": "nexar_00259.mp4",
+    "video_path": "00259",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -18955,7 +18955,7 @@
     ]
   },
   {
-    "video_path": "nexar_00661.mp4",
+    "video_path": "00661",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19040,7 +19040,7 @@
     ]
   },
   {
-    "video_path": "nexar_00705.mp4",
+    "video_path": "00705",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19125,7 +19125,7 @@
     ]
   },
   {
-    "video_path": "nexar_00586.mp4",
+    "video_path": "00586",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19210,7 +19210,7 @@
     ]
   },
   {
-    "video_path": "nexar_00636.mp4",
+    "video_path": "00636",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19295,7 +19295,7 @@
     ]
   },
   {
-    "video_path": "nexar_00882.mp4",
+    "video_path": "00882",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19380,7 +19380,7 @@
     ]
   },
   {
-    "video_path": "nexar_00719.mp4",
+    "video_path": "00719",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19465,7 +19465,7 @@
     ]
   },
   {
-    "video_path": "nexar_00321.mp4",
+    "video_path": "00321",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19550,7 +19550,7 @@
     ]
   },
   {
-    "video_path": "nexar_00245.mp4",
+    "video_path": "00245",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19635,7 +19635,7 @@
     ]
   },
   {
-    "video_path": "nexar_00383.mp4",
+    "video_path": "00383",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19720,7 +19720,7 @@
     ]
   },
   {
-    "video_path": "nexar_00064.mp4",
+    "video_path": "00064",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19805,7 +19805,7 @@
     ]
   },
   {
-    "video_path": "nexar_00100.mp4",
+    "video_path": "00100",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19890,7 +19890,7 @@
     ]
   },
   {
-    "video_path": "nexar_00820.mp4",
+    "video_path": "00820",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -19975,7 +19975,7 @@
     ]
   },
   {
-    "video_path": "nexar_00538.mp4",
+    "video_path": "00538",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20060,7 +20060,7 @@
     ]
   },
   {
-    "video_path": "nexar_00944.mp4",
+    "video_path": "00944",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20145,7 +20145,7 @@
     ]
   },
   {
-    "video_path": "nexar_00694.mp4",
+    "video_path": "00694",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20230,7 +20230,7 @@
     ]
   },
   {
-    "video_path": "nexar_00417.mp4",
+    "video_path": "00417",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20315,7 +20315,7 @@
     ]
   },
   {
-    "video_path": "nexar_00573.mp4",
+    "video_path": "00573",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20400,7 +20400,7 @@
     ]
   },
   {
-    "video_path": "nexar_00131.mp4",
+    "video_path": "00131",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20485,7 +20485,7 @@
     ]
   },
   {
-    "video_path": "nexar_00055.mp4",
+    "video_path": "00055",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20570,7 +20570,7 @@
     ]
   },
   {
-    "video_path": "nexar_00542.mp4",
+    "video_path": "00542",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20655,7 +20655,7 @@
     ]
   },
   {
-    "video_path": "nexar_00426.mp4",
+    "video_path": "00426",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20740,7 +20740,7 @@
     ]
   },
   {
-    "video_path": "nexar_00607.mp4",
+    "video_path": "00607",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20825,7 +20825,7 @@
     ]
   },
   {
-    "video_path": "nexar_00763.mp4",
+    "video_path": "00763",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20910,7 +20910,7 @@
     ]
   },
   {
-    "video_path": "nexar_00310.mp4",
+    "video_path": "00310",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -20995,7 +20995,7 @@
     ]
   },
   {
-    "video_path": "nexar_00520.mp4",
+    "video_path": "00520",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21080,7 +21080,7 @@
     ]
   },
   {
-    "video_path": "nexar_00838.mp4",
+    "video_path": "00838",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21165,7 +21165,7 @@
     ]
   },
   {
-    "video_path": "nexar_00444.mp4",
+    "video_path": "00444",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21250,7 +21250,7 @@
     ]
   },
   {
-    "video_path": "nexar_00917.mp4",
+    "video_path": "00917",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21335,7 +21335,7 @@
     ]
   },
   {
-    "video_path": "nexar_00873.mp4",
+    "video_path": "00873",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21420,7 +21420,7 @@
     ]
   },
   {
-    "video_path": "nexar_00153.mp4",
+    "video_path": "00153",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21505,7 +21505,7 @@
     ]
   },
   {
-    "video_path": "nexar_00037.mp4",
+    "video_path": "00037",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21590,7 +21590,7 @@
     ]
   },
   {
-    "video_path": "nexar_00118.mp4",
+    "video_path": "00118",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21675,7 +21675,7 @@
     ]
   },
   {
-    "video_path": "nexar_00095.mp4",
+    "video_path": "00095",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21760,7 +21760,7 @@
     ]
   },
   {
-    "video_path": "nexar_00339.mp4",
+    "video_path": "00339",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21845,7 +21845,7 @@
     ]
   },
   {
-    "video_path": "nexar_00216.mp4",
+    "video_path": "00216",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -21930,7 +21930,7 @@
     ]
   },
   {
-    "video_path": "nexar_00372.mp4",
+    "video_path": "00372",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22015,7 +22015,7 @@
     ]
   },
   {
-    "video_path": "nexar_00665.mp4",
+    "video_path": "00665",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22100,7 +22100,7 @@
     ]
   },
   {
-    "video_path": "nexar_00701.mp4",
+    "video_path": "00701",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22185,7 +22185,7 @@
     ]
   },
   {
-    "video_path": "nexar_00343.mp4",
+    "video_path": "00343",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22270,7 +22270,7 @@
     ]
   },
   {
-    "video_path": "nexar_00227.mp4",
+    "video_path": "00227",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22355,7 +22355,7 @@
     ]
   },
   {
-    "video_path": "nexar_00308.mp4",
+    "video_path": "00308",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22440,7 +22440,7 @@
     ]
   },
   {
-    "video_path": "nexar_01036.mp4",
+    "video_path": "01036",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22525,7 +22525,7 @@
     ]
   },
   {
-    "video_path": "nexar_00730.mp4",
+    "video_path": "00730",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22610,7 +22610,7 @@
     ]
   },
   {
-    "video_path": "nexar_00792.mp4",
+    "video_path": "00792",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22680,7 +22680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00842.mp4",
+    "video_path": "00842",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22765,7 +22765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00926.mp4",
+    "video_path": "00926",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22835,7 +22835,7 @@
     ]
   },
   {
-    "video_path": "nexar_00809.mp4",
+    "video_path": "00809",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22905,7 +22905,7 @@
     ]
   },
   {
-    "video_path": "nexar_00475.mp4",
+    "video_path": "00475",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -22990,7 +22990,7 @@
     ]
   },
   {
-    "video_path": "nexar_00285.mp4",
+    "video_path": "00285",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23075,7 +23075,7 @@
     ]
   },
   {
-    "video_path": "nexar_00129.mp4",
+    "video_path": "00129",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23160,7 +23160,7 @@
     ]
   },
   {
-    "video_path": "nexar_00006.mp4",
+    "video_path": "00006",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23245,7 +23245,7 @@
     ]
   },
   {
-    "video_path": "nexar_00162.mp4",
+    "video_path": "00162",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23330,7 +23330,7 @@
     ]
   },
   {
-    "video_path": "nexar_00988.mp4",
+    "video_path": "00988",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23415,7 +23415,7 @@
     ]
   },
   {
-    "video_path": "nexar_00658.mp4",
+    "video_path": "00658",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23500,7 +23500,7 @@
     ]
   },
   {
-    "video_path": "nexar_00613.mp4",
+    "video_path": "00613",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23585,7 +23585,7 @@
     ]
   },
   {
-    "video_path": "nexar_00777.mp4",
+    "video_path": "00777",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23670,7 +23670,7 @@
     ]
   },
   {
-    "video_path": "nexar_00187.mp4",
+    "video_path": "00187",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23755,7 +23755,7 @@
     ]
   },
   {
-    "video_path": "nexar_00260.mp4",
+    "video_path": "00260",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23840,7 +23840,7 @@
     ]
   },
   {
-    "video_path": "nexar_00289.mp4",
+    "video_path": "00289",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -23925,7 +23925,7 @@
     ]
   },
   {
-    "video_path": "nexar_00125.mp4",
+    "video_path": "00125",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24010,7 +24010,7 @@
     ]
   },
   {
-    "video_path": "nexar_00041.mp4",
+    "video_path": "00041",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24095,7 +24095,7 @@
     ]
   },
   {
-    "video_path": "nexar_00556.mp4",
+    "video_path": "00556",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24180,7 +24180,7 @@
     ]
   },
   {
-    "video_path": "nexar_00961.mp4",
+    "video_path": "00961",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24265,7 +24265,7 @@
     ]
   },
   {
-    "video_path": "nexar_00479.mp4",
+    "video_path": "00479",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24350,7 +24350,7 @@
     ]
   },
   {
-    "video_path": "nexar_00805.mp4",
+    "video_path": "00805",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24435,7 +24435,7 @@
     ]
   },
   {
-    "video_path": "nexar_00397.mp4",
+    "video_path": "00397",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24520,7 +24520,7 @@
     ]
   },
   {
-    "video_path": "nexar_00114.mp4",
+    "video_path": "00114",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24605,7 +24605,7 @@
     ]
   },
   {
-    "video_path": "nexar_00834.mp4",
+    "video_path": "00834",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24690,7 +24690,7 @@
     ]
   },
   {
-    "video_path": "nexar_00403.mp4",
+    "video_path": "00403",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24775,7 +24775,7 @@
     ]
   },
   {
-    "video_path": "nexar_00567.mp4",
+    "video_path": "00567",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24860,7 +24860,7 @@
     ]
   },
   {
-    "video_path": "nexar_00896.mp4",
+    "video_path": "00896",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -24945,7 +24945,7 @@
     ]
   },
   {
-    "video_path": "nexar_00622.mp4",
+    "video_path": "00622",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25030,7 +25030,7 @@
     ]
   },
   {
-    "video_path": "nexar_00669.mp4",
+    "video_path": "00669",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25115,7 +25115,7 @@
     ]
   },
   {
-    "video_path": "nexar_00099.mp4",
+    "video_path": "00099",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25200,7 +25200,7 @@
     ]
   },
   {
-    "video_path": "nexar_00335.mp4",
+    "video_path": "00335",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25285,7 +25285,7 @@
     ]
   },
   {
-    "video_path": "nexar_00251.mp4",
+    "video_path": "00251",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25370,7 +25370,7 @@
     ]
   },
   {
-    "video_path": "nexar_00856.mp4",
+    "video_path": "00856",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25455,7 +25455,7 @@
     ]
   },
   {
-    "video_path": "nexar_00932.mp4",
+    "video_path": "00932",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25540,7 +25540,7 @@
     ]
   },
   {
-    "video_path": "nexar_00461.mp4",
+    "video_path": "00461",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25625,7 +25625,7 @@
     ]
   },
   {
-    "video_path": "nexar_00979.mp4",
+    "video_path": "00979",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25710,7 +25710,7 @@
     ]
   },
   {
-    "video_path": "nexar_00505.mp4",
+    "video_path": "00505",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25795,7 +25795,7 @@
     ]
   },
   {
-    "video_path": "nexar_00059.mp4",
+    "video_path": "00059",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25880,7 +25880,7 @@
     ]
   },
   {
-    "video_path": "nexar_00291.mp4",
+    "video_path": "00291",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -25965,7 +25965,7 @@
     ]
   },
   {
-    "video_path": "nexar_00357.mp4",
+    "video_path": "00357",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26050,7 +26050,7 @@
     ]
   },
   {
-    "video_path": "nexar_00233.mp4",
+    "video_path": "00233",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26135,7 +26135,7 @@
     ]
   },
   {
-    "video_path": "nexar_01022.mp4",
+    "video_path": "01022",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26220,7 +26220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00640.mp4",
+    "video_path": "00640",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26305,7 +26305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00990.mp4",
+    "video_path": "00990",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26390,7 +26390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00488.mp4",
+    "video_path": "00488",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26475,7 +26475,7 @@
     ]
   },
   {
-    "video_path": "nexar_01013.mp4",
+    "video_path": "01013",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26560,7 +26560,7 @@
     ]
   },
   {
-    "video_path": "nexar_00081.mp4",
+    "video_path": "00081",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26645,7 +26645,7 @@
     ]
   },
   {
-    "video_path": "nexar_00202.mp4",
+    "video_path": "00202",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26730,7 +26730,7 @@
     ]
   },
   {
-    "video_path": "nexar_00366.mp4",
+    "video_path": "00366",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26815,7 +26815,7 @@
     ]
   },
   {
-    "video_path": "nexar_00596.mp4",
+    "video_path": "00596",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26900,7 +26900,7 @@
     ]
   },
   {
-    "video_path": "nexar_00671.mp4",
+    "video_path": "00671",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -26985,7 +26985,7 @@
     ]
   },
   {
-    "video_path": "nexar_00715.mp4",
+    "video_path": "00715",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27070,7 +27070,7 @@
     ]
   },
   {
-    "video_path": "nexar_00948.mp4",
+    "video_path": "00948",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27155,7 +27155,7 @@
     ]
   },
   {
-    "video_path": "nexar_00534.mp4",
+    "video_path": "00534",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27240,7 +27240,7 @@
     ]
   },
   {
-    "video_path": "nexar_00450.mp4",
+    "video_path": "00450",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27325,7 +27325,7 @@
     ]
   },
   {
-    "video_path": "nexar_00698.mp4",
+    "video_path": "00698",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27410,7 +27410,7 @@
     ]
   },
   {
-    "video_path": "nexar_00903.mp4",
+    "video_path": "00903",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27495,7 +27495,7 @@
     ]
   },
   {
-    "video_path": "nexar_00867.mp4",
+    "video_path": "00867",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27580,7 +27580,7 @@
     ]
   },
   {
-    "video_path": "nexar_00147.mp4",
+    "video_path": "00147",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27665,7 +27665,7 @@
     ]
   },
   {
-    "video_path": "nexar_00023.mp4",
+    "video_path": "00023",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27750,7 +27750,7 @@
     ]
   },
   {
-    "video_path": "nexar_00068.mp4",
+    "video_path": "00068",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27835,7 +27835,7 @@
     ]
   },
   {
-    "video_path": "nexar_00074.mp4",
+    "video_path": "00074",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -27920,7 +27920,7 @@
     ]
   },
   {
-    "video_path": "nexar_00110.mp4",
+    "video_path": "00110",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28005,7 +28005,7 @@
     ]
   },
   {
-    "video_path": "nexar_00393.mp4",
+    "video_path": "00393",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28090,7 +28090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00407.mp4",
+    "video_path": "00407",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28175,7 +28175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00563.mp4",
+    "video_path": "00563",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28260,7 +28260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00684.mp4",
+    "video_path": "00684",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28345,7 +28345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00830.mp4",
+    "video_path": "00830",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28430,7 +28430,7 @@
     ]
   },
   {
-    "video_path": "nexar_00954.mp4",
+    "video_path": "00954",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28515,7 +28515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00528.mp4",
+    "video_path": "00528",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28600,7 +28600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00709.mp4",
+    "video_path": "00709",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28685,7 +28685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00742.mp4",
+    "video_path": "00742",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28770,7 +28770,7 @@
     ]
   },
   {
-    "video_path": "nexar_00626.mp4",
+    "video_path": "00626",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28855,7 +28855,7 @@
     ]
   },
   {
-    "video_path": "nexar_00331.mp4",
+    "video_path": "00331",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -28940,7 +28940,7 @@
     ]
   },
   {
-    "video_path": "nexar_00255.mp4",
+    "video_path": "00255",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29025,7 +29025,7 @@
     ]
   },
   {
-    "video_path": "nexar_00617.mp4",
+    "video_path": "00617",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29110,7 +29110,7 @@
     ]
   },
   {
-    "video_path": "nexar_00773.mp4",
+    "video_path": "00773",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29195,7 +29195,7 @@
     ]
   },
   {
-    "video_path": "nexar_00494.mp4",
+    "video_path": "00494",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29280,7 +29280,7 @@
     ]
   },
   {
-    "video_path": "nexar_00264.mp4",
+    "video_path": "00264",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29365,7 +29365,7 @@
     ]
   },
   {
-    "video_path": "nexar_00300.mp4",
+    "video_path": "00300",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29450,7 +29450,7 @@
     ]
   },
   {
-    "video_path": "nexar_00183.mp4",
+    "video_path": "00183",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29535,7 +29535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00121.mp4",
+    "video_path": "00121",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29620,7 +29620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00965.mp4",
+    "video_path": "00965",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29705,7 +29705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00519.mp4",
+    "video_path": "00519",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29790,7 +29790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00206.mp4",
+    "video_path": "00206",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29875,7 +29875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00362.mp4",
+    "video_path": "00362",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -29960,7 +29960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00329.mp4",
+    "video_path": "00329",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30045,7 +30045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00085.mp4",
+    "video_path": "00085",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30130,7 +30130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00675.mp4",
+    "video_path": "00675",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30215,7 +30215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00592.mp4",
+    "video_path": "00592",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30300,7 +30300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00863.mp4",
+    "video_path": "00863",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30385,7 +30385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00530.mp4",
+    "video_path": "00530",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30470,7 +30470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00454.mp4",
+    "video_path": "00454",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30555,7 +30555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00828.mp4",
+    "video_path": "00828",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30625,7 +30625,7 @@
     ]
   },
   {
-    "video_path": "nexar_00108.mp4",
+    "video_path": "00108",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30710,7 +30710,7 @@
     ]
   },
   {
-    "video_path": "nexar_00143.mp4",
+    "video_path": "00143",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30795,7 +30795,7 @@
     ]
   },
   {
-    "video_path": "nexar_00027.mp4",
+    "video_path": "00027",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30880,7 +30880,7 @@
     ]
   },
   {
-    "video_path": "nexar_00819.mp4",
+    "video_path": "00819",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -30965,7 +30965,7 @@
     ]
   },
   {
-    "video_path": "nexar_00501.mp4",
+    "video_path": "00501",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31050,7 +31050,7 @@
     ]
   },
   {
-    "video_path": "nexar_00936.mp4",
+    "video_path": "00936",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31135,7 +31135,7 @@
     ]
   },
   {
-    "video_path": "nexar_00782.mp4",
+    "video_path": "00782",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31220,7 +31220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00016.mp4",
+    "video_path": "00016",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31305,7 +31305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00172.mp4",
+    "video_path": "00172",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31390,7 +31390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00295.mp4",
+    "video_path": "00295",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31475,7 +31475,7 @@
     ]
   },
   {
-    "video_path": "nexar_00318.mp4",
+    "video_path": "00318",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31560,7 +31560,7 @@
     ]
   },
   {
-    "video_path": "nexar_00353.mp4",
+    "video_path": "00353",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31645,7 +31645,7 @@
     ]
   },
   {
-    "video_path": "nexar_00237.mp4",
+    "video_path": "00237",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31730,7 +31730,7 @@
     ]
   },
   {
-    "video_path": "nexar_00644.mp4",
+    "video_path": "00644",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31815,7 +31815,7 @@
     ]
   },
   {
-    "video_path": "nexar_00272.mp4",
+    "video_path": "00272",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31900,7 +31900,7 @@
     ]
   },
   {
-    "video_path": "nexar_01028.mp4",
+    "video_path": "01028",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -31985,7 +31985,7 @@
     ]
   },
   {
-    "video_path": "nexar_00239.mp4",
+    "video_path": "00239",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32070,7 +32070,7 @@
     ]
   },
   {
-    "video_path": "nexar_00195.mp4",
+    "video_path": "00195",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32155,7 +32155,7 @@
     ]
   },
   {
-    "video_path": "nexar_00601.mp4",
+    "video_path": "00601",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32240,7 +32240,7 @@
     ]
   },
   {
-    "video_path": "nexar_00765.mp4",
+    "video_path": "00765",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32325,7 +32325,7 @@
     ]
   },
   {
-    "video_path": "nexar_00973.mp4",
+    "video_path": "00973",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32385,7 +32385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00817.mp4",
+    "video_path": "00817",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32470,7 +32470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00544.mp4",
+    "video_path": "00544",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32555,7 +32555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00938.mp4",
+    "video_path": "00938",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32640,7 +32640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00420.mp4",
+    "video_path": "00420",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32725,7 +32725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00018.mp4",
+    "video_path": "00018",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32810,7 +32810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00411.mp4",
+    "video_path": "00411",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32895,7 +32895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00909.mp4",
+    "video_path": "00909",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -32980,7 +32980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00942.mp4",
+    "video_path": "00942",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33065,7 +33065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00692.mp4",
+    "video_path": "00692",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33150,7 +33150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00062.mp4",
+    "video_path": "00062",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33235,7 +33235,7 @@
     ]
   },
   {
-    "video_path": "nexar_00106.mp4",
+    "video_path": "00106",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33320,7 +33320,7 @@
     ]
   },
   {
-    "video_path": "nexar_00029.mp4",
+    "video_path": "00029",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33405,7 +33405,7 @@
     ]
   },
   {
-    "video_path": "nexar_00208.mp4",
+    "video_path": "00208",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33490,7 +33490,7 @@
     ]
   },
   {
-    "video_path": "nexar_00327.mp4",
+    "video_path": "00327",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33575,7 +33575,7 @@
     ]
   },
   {
-    "video_path": "nexar_01019.mp4",
+    "video_path": "01019",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33660,7 +33660,7 @@
     ]
   },
   {
-    "video_path": "nexar_00754.mp4",
+    "video_path": "00754",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33745,7 +33745,7 @@
     ]
   },
   {
-    "video_path": "nexar_00630.mp4",
+    "video_path": "00630",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33830,7 +33830,7 @@
     ]
   },
   {
-    "video_path": "nexar_00884.mp4",
+    "video_path": "00884",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -33915,7 +33915,7 @@
     ]
   },
   {
-    "video_path": "nexar_00000.mp4",
+    "video_path": "00000",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34000,7 +34000,7 @@
     ]
   },
   {
-    "video_path": "nexar_00164.mp4",
+    "video_path": "00164",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34085,7 +34085,7 @@
     ]
   },
   {
-    "video_path": "nexar_00283.mp4",
+    "video_path": "00283",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34170,7 +34170,7 @@
     ]
   },
   {
-    "video_path": "nexar_00473.mp4",
+    "video_path": "00473",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34255,7 +34255,7 @@
     ]
   },
   {
-    "video_path": "nexar_00517.mp4",
+    "video_path": "00517",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34340,7 +34340,7 @@
     ]
   },
   {
-    "video_path": "nexar_00794.mp4",
+    "video_path": "00794",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34425,7 +34425,7 @@
     ]
   },
   {
-    "video_path": "nexar_00982.mp4",
+    "video_path": "00982",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34510,7 +34510,7 @@
     ]
   },
   {
-    "video_path": "nexar_00652.mp4",
+    "video_path": "00652",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34595,7 +34595,7 @@
     ]
   },
   {
-    "video_path": "nexar_00345.mp4",
+    "video_path": "00345",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34680,7 +34680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00663.mp4",
+    "video_path": "00663",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34765,7 +34765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00707.mp4",
+    "video_path": "00707",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34850,7 +34850,7 @@
     ]
   },
   {
-    "video_path": "nexar_00584.mp4",
+    "video_path": "00584",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -34935,7 +34935,7 @@
     ]
   },
   {
-    "video_path": "nexar_00210.mp4",
+    "video_path": "00210",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35020,7 +35020,7 @@
     ]
   },
   {
-    "video_path": "nexar_00093.mp4",
+    "video_path": "00093",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35105,7 +35105,7 @@
     ]
   },
   {
-    "video_path": "nexar_00155.mp4",
+    "video_path": "00155",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35190,7 +35190,7 @@
     ]
   },
   {
-    "video_path": "nexar_00031.mp4",
+    "video_path": "00031",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35275,7 +35275,7 @@
     ]
   },
   {
-    "video_path": "nexar_00911.mp4",
+    "video_path": "00911",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35345,7 +35345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00875.mp4",
+    "video_path": "00875",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35430,7 +35430,7 @@
     ]
   },
   {
-    "video_path": "nexar_00526.mp4",
+    "video_path": "00526",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35515,7 +35515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00696.mp4",
+    "video_path": "00696",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35600,7 +35600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00869.mp4",
+    "video_path": "00869",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35685,7 +35685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00415.mp4",
+    "video_path": "00415",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35770,7 +35770,7 @@
     ]
   },
   {
-    "video_path": "nexar_00571.mp4",
+    "video_path": "00571",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35855,7 +35855,7 @@
     ]
   },
   {
-    "video_path": "nexar_00149.mp4",
+    "video_path": "00149",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -35940,7 +35940,7 @@
     ]
   },
   {
-    "video_path": "nexar_00381.mp4",
+    "video_path": "00381",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36025,7 +36025,7 @@
     ]
   },
   {
-    "video_path": "nexar_00066.mp4",
+    "video_path": "00066",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36110,7 +36110,7 @@
     ]
   },
   {
-    "video_path": "nexar_00102.mp4",
+    "video_path": "00102",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36195,7 +36195,7 @@
     ]
   },
   {
-    "video_path": "nexar_00247.mp4",
+    "video_path": "00247",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36280,7 +36280,7 @@
     ]
   },
   {
-    "video_path": "nexar_00750.mp4",
+    "video_path": "00750",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36365,7 +36365,7 @@
     ]
   },
   {
-    "video_path": "nexar_00634.mp4",
+    "video_path": "00634",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36450,7 +36450,7 @@
     ]
   },
   {
-    "video_path": "nexar_00598.mp4",
+    "video_path": "00598",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36535,7 +36535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00880.mp4",
+    "video_path": "00880",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36620,7 +36620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00276.mp4",
+    "video_path": "00276",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36705,7 +36705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00312.mp4",
+    "video_path": "00312",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36790,7 +36790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00486.mp4",
+    "video_path": "00486",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36875,7 +36875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00605.mp4",
+    "video_path": "00605",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -36960,7 +36960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00761.mp4",
+    "video_path": "00761",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37045,7 +37045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00540.mp4",
+    "video_path": "00540",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37130,7 +37130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00858.mp4",
+    "video_path": "00858",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37215,7 +37215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00424.mp4",
+    "video_path": "00424",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37300,7 +37300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00788.mp4",
+    "video_path": "00788",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37385,7 +37385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00977.mp4",
+    "video_path": "00977",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37470,7 +37470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00813.mp4",
+    "video_path": "00813",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37555,7 +37555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00133.mp4",
+    "video_path": "00133",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37640,7 +37640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00057.mp4",
+    "video_path": "00057",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37725,7 +37725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00898.mp4",
+    "video_path": "00898",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37810,7 +37810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00580.mp4",
+    "video_path": "00580",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37885,7 +37885,7 @@
     ]
   },
   {
-    "video_path": "nexar_00748.mp4",
+    "video_path": "00748",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -37970,7 +37970,7 @@
     ]
   },
   {
-    "video_path": "nexar_00667.mp4",
+    "video_path": "00667",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38055,7 +38055,7 @@
     ]
   },
   {
-    "video_path": "nexar_00703.mp4",
+    "video_path": "00703",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38140,7 +38140,7 @@
     ]
   },
   {
-    "video_path": "nexar_00097.mp4",
+    "video_path": "00097",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38225,7 +38225,7 @@
     ]
   },
   {
-    "video_path": "nexar_00214.mp4",
+    "video_path": "00214",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38310,7 +38310,7 @@
     ]
   },
   {
-    "video_path": "nexar_00370.mp4",
+    "video_path": "00370",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38395,7 +38395,7 @@
     ]
   },
   {
-    "video_path": "nexar_00151.mp4",
+    "video_path": "00151",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38480,7 +38480,7 @@
     ]
   },
   {
-    "video_path": "nexar_00522.mp4",
+    "video_path": "00522",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38565,7 +38565,7 @@
     ]
   },
   {
-    "video_path": "nexar_00915.mp4",
+    "video_path": "00915",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38650,7 +38650,7 @@
     ]
   },
   {
-    "video_path": "nexar_00287.mp4",
+    "video_path": "00287",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38735,7 +38735,7 @@
     ]
   },
   {
-    "video_path": "nexar_00004.mp4",
+    "video_path": "00004",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38820,7 +38820,7 @@
     ]
   },
   {
-    "video_path": "nexar_00160.mp4",
+    "video_path": "00160",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38905,7 +38905,7 @@
     ]
   },
   {
-    "video_path": "nexar_00840.mp4",
+    "video_path": "00840",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -38990,7 +38990,7 @@
     ]
   },
   {
-    "video_path": "nexar_00558.mp4",
+    "video_path": "00558",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39075,7 +39075,7 @@
     ]
   },
   {
-    "video_path": "nexar_00477.mp4",
+    "video_path": "00477",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39160,7 +39160,7 @@
     ]
   },
   {
-    "video_path": "nexar_00986.mp4",
+    "video_path": "00986",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39245,7 +39245,7 @@
     ]
   },
   {
-    "video_path": "nexar_00656.mp4",
+    "video_path": "00656",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39330,7 +39330,7 @@
     ]
   },
   {
-    "video_path": "nexar_00189.mp4",
+    "video_path": "00189",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39415,7 +39415,7 @@
     ]
   },
   {
-    "video_path": "nexar_00341.mp4",
+    "video_path": "00341",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39500,7 +39500,7 @@
     ]
   },
   {
-    "video_path": "nexar_00225.mp4",
+    "video_path": "00225",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39585,7 +39585,7 @@
     ]
   },
   {
-    "video_path": "nexar_01034.mp4",
+    "video_path": "01034",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39670,7 +39670,7 @@
     ]
   },
   {
-    "video_path": "nexar_00928.mp4",
+    "video_path": "00928",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39755,7 +39755,7 @@
     ]
   },
   {
-    "video_path": "nexar_00554.mp4",
+    "video_path": "00554",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39840,7 +39840,7 @@
     ]
   },
   {
-    "video_path": "nexar_00430.mp4",
+    "video_path": "00430",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -39925,7 +39925,7 @@
     ]
   },
   {
-    "video_path": "nexar_00963.mp4",
+    "video_path": "00963",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40010,7 +40010,7 @@
     ]
   },
   {
-    "video_path": "nexar_00127.mp4",
+    "video_path": "00127",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40095,7 +40095,7 @@
     ]
   },
   {
-    "video_path": "nexar_00043.mp4",
+    "video_path": "00043",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40180,7 +40180,7 @@
     ]
   },
   {
-    "video_path": "nexar_00008.mp4",
+    "video_path": "00008",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40265,7 +40265,7 @@
     ]
   },
   {
-    "video_path": "nexar_00262.mp4",
+    "video_path": "00262",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40350,7 +40350,7 @@
     ]
   },
   {
-    "video_path": "nexar_00611.mp4",
+    "video_path": "00611",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40435,7 +40435,7 @@
     ]
   },
   {
-    "video_path": "nexar_00253.mp4",
+    "video_path": "00253",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40520,7 +40520,7 @@
     ]
   },
   {
-    "video_path": "nexar_00218.mp4",
+    "video_path": "00218",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40605,7 +40605,7 @@
     ]
   },
   {
-    "video_path": "nexar_00744.mp4",
+    "video_path": "00744",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40690,7 +40690,7 @@
     ]
   },
   {
-    "video_path": "nexar_00682.mp4",
+    "video_path": "00682",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40775,7 +40775,7 @@
     ]
   },
   {
-    "video_path": "nexar_00836.mp4",
+    "video_path": "00836",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40860,7 +40860,7 @@
     ]
   },
   {
-    "video_path": "nexar_00952.mp4",
+    "video_path": "00952",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -40945,7 +40945,7 @@
     ]
   },
   {
-    "video_path": "nexar_00401.mp4",
+    "video_path": "00401",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41030,7 +41030,7 @@
     ]
   },
   {
-    "video_path": "nexar_00565.mp4",
+    "video_path": "00565",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41115,7 +41115,7 @@
     ]
   },
   {
-    "video_path": "nexar_00395.mp4",
+    "video_path": "00395",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41200,7 +41200,7 @@
     ]
   },
   {
-    "video_path": "nexar_00039.mp4",
+    "video_path": "00039",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41285,7 +41285,7 @@
     ]
   },
   {
-    "video_path": "nexar_00072.mp4",
+    "video_path": "00072",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41370,7 +41370,7 @@
     ]
   },
   {
-    "video_path": "nexar_00642.mp4",
+    "video_path": "00642",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41455,7 +41455,7 @@
     ]
   },
   {
-    "video_path": "nexar_00609.mp4",
+    "video_path": "00609",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41540,7 +41540,7 @@
     ]
   },
   {
-    "video_path": "nexar_00355.mp4",
+    "video_path": "00355",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41625,7 +41625,7 @@
     ]
   },
   {
-    "video_path": "nexar_01020.mp4",
+    "video_path": "01020",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41710,7 +41710,7 @@
     ]
   },
   {
-    "video_path": "nexar_00010.mp4",
+    "video_path": "00010",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41795,7 +41795,7 @@
     ]
   },
   {
-    "video_path": "nexar_00174.mp4",
+    "video_path": "00174",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41880,7 +41880,7 @@
     ]
   },
   {
-    "video_path": "nexar_00428.mp4",
+    "video_path": "00428",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -41965,7 +41965,7 @@
     ]
   },
   {
-    "video_path": "nexar_00854.mp4",
+    "video_path": "00854",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42050,7 +42050,7 @@
     ]
   },
   {
-    "video_path": "nexar_00930.mp4",
+    "video_path": "00930",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42135,7 +42135,7 @@
     ]
   },
   {
-    "video_path": "nexar_00784.mp4",
+    "video_path": "00784",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42205,7 +42205,7 @@
     ]
   },
   {
-    "video_path": "nexar_00463.mp4",
+    "video_path": "00463",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42290,7 +42290,7 @@
     ]
   },
   {
-    "video_path": "nexar_00145.mp4",
+    "video_path": "00145",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42375,7 +42375,7 @@
     ]
   },
   {
-    "video_path": "nexar_00021.mp4",
+    "video_path": "00021",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42460,7 +42460,7 @@
     ]
   },
   {
-    "video_path": "nexar_00452.mp4",
+    "video_path": "00452",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42545,7 +42545,7 @@
     ]
   },
   {
-    "video_path": "nexar_00901.mp4",
+    "video_path": "00901",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42630,7 +42630,7 @@
     ]
   },
   {
-    "video_path": "nexar_00865.mp4",
+    "video_path": "00865",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42715,7 +42715,7 @@
     ]
   },
   {
-    "video_path": "nexar_00638.mp4",
+    "video_path": "00638",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42800,7 +42800,7 @@
     ]
   },
   {
-    "video_path": "nexar_00594.mp4",
+    "video_path": "00594",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42885,7 +42885,7 @@
     ]
   },
   {
-    "video_path": "nexar_00673.mp4",
+    "video_path": "00673",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -42970,7 +42970,7 @@
     ]
   },
   {
-    "video_path": "nexar_01011.mp4",
+    "video_path": "01011",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43055,7 +43055,7 @@
     ]
   },
   {
-    "video_path": "nexar_00083.mp4",
+    "video_path": "00083",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43140,7 +43140,7 @@
     ]
   },
   {
-    "video_path": "nexar_00200.mp4",
+    "video_path": "00200",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43225,7 +43225,7 @@
     ]
   },
   {
-    "video_path": "nexar_00364.mp4",
+    "video_path": "00364",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43310,7 +43310,7 @@
     ]
   },
   {
-    "video_path": "nexar_00378.mp4",
+    "video_path": "00378",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43395,7 +43395,7 @@
     ]
   },
   {
-    "video_path": "nexar_00333.mp4",
+    "video_path": "00333",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43480,7 +43480,7 @@
     ]
   },
   {
-    "video_path": "nexar_00588.mp4",
+    "video_path": "00588",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43565,7 +43565,7 @@
     ]
   },
   {
-    "video_path": "nexar_00890.mp4",
+    "video_path": "00890",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43650,7 +43650,7 @@
     ]
   },
   {
-    "video_path": "nexar_00740.mp4",
+    "video_path": "00740",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43735,7 +43735,7 @@
     ]
   },
   {
-    "video_path": "nexar_00624.mp4",
+    "video_path": "00624",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43820,7 +43820,7 @@
     ]
   },
   {
-    "video_path": "nexar_00405.mp4",
+    "video_path": "00405",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43905,7 +43905,7 @@
     ]
   },
   {
-    "video_path": "nexar_00879.mp4",
+    "video_path": "00879",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -43990,7 +43990,7 @@
     ]
   },
   {
-    "video_path": "nexar_00686.mp4",
+    "video_path": "00686",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44075,7 +44075,7 @@
     ]
   },
   {
-    "video_path": "nexar_00832.mp4",
+    "video_path": "00832",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44160,7 +44160,7 @@
     ]
   },
   {
-    "video_path": "nexar_00076.mp4",
+    "video_path": "00076",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44245,7 +44245,7 @@
     ]
   },
   {
-    "video_path": "nexar_00112.mp4",
+    "video_path": "00112",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44330,7 +44330,7 @@
     ]
   },
   {
-    "video_path": "nexar_00391.mp4",
+    "video_path": "00391",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44415,7 +44415,7 @@
     ]
   },
   {
-    "video_path": "nexar_00967.mp4",
+    "video_path": "00967",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44500,7 +44500,7 @@
     ]
   },
   {
-    "video_path": "nexar_00803.mp4",
+    "video_path": "00803",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44585,7 +44585,7 @@
     ]
   },
   {
-    "video_path": "nexar_00798.mp4",
+    "video_path": "00798",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44655,7 +44655,7 @@
     ]
   },
   {
-    "video_path": "nexar_00550.mp4",
+    "video_path": "00550",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44740,7 +44740,7 @@
     ]
   },
   {
-    "video_path": "nexar_00434.mp4",
+    "video_path": "00434",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44825,7 +44825,7 @@
     ]
   },
   {
-    "video_path": "nexar_00168.mp4",
+    "video_path": "00168",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44910,7 +44910,7 @@
     ]
   },
   {
-    "video_path": "nexar_00123.mp4",
+    "video_path": "00123",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -44995,7 +44995,7 @@
     ]
   },
   {
-    "video_path": "nexar_00047.mp4",
+    "video_path": "00047",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45080,7 +45080,7 @@
     ]
   },
   {
-    "video_path": "nexar_00266.mp4",
+    "video_path": "00266",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45165,7 +45165,7 @@
     ]
   },
   {
-    "video_path": "nexar_00302.mp4",
+    "video_path": "00302",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45250,7 +45250,7 @@
     ]
   },
   {
-    "video_path": "nexar_00181.mp4",
+    "video_path": "00181",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45335,7 +45335,7 @@
     ]
   },
   {
-    "video_path": "nexar_00349.mp4",
+    "video_path": "00349",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45420,7 +45420,7 @@
     ]
   },
   {
-    "video_path": "nexar_00307.mp4",
+    "video_path": "00307",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45505,7 +45505,7 @@
     ]
   },
   {
-    "video_path": "nexar_00771.mp4",
+    "video_path": "00771",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45590,7 +45590,7 @@
     ]
   },
   {
-    "video_path": "nexar_00496.mp4",
+    "video_path": "00496",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45675,7 +45675,7 @@
     ]
   },
   {
-    "video_path": "nexar_00141.mp4",
+    "video_path": "00141",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45760,7 +45760,7 @@
     ]
   },
   {
-    "video_path": "nexar_00025.mp4",
+    "video_path": "00025",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45845,7 +45845,7 @@
     ]
   },
   {
-    "video_path": "nexar_00389.mp4",
+    "video_path": "00389",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -45930,7 +45930,7 @@
     ]
   },
   {
-    "video_path": "nexar_00905.mp4",
+    "video_path": "00905",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46015,7 +46015,7 @@
     ]
   },
   {
-    "video_path": "nexar_00579.mp4",
+    "video_path": "00579",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46090,7 +46090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00861.mp4",
+    "video_path": "00861",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46175,7 +46175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00456.mp4",
+    "video_path": "00456",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46260,7 +46260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00677.mp4",
+    "video_path": "00677",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46345,7 +46345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00713.mp4",
+    "video_path": "00713",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46405,7 +46405,7 @@
     ]
   },
   {
-    "video_path": "nexar_00758.mp4",
+    "video_path": "00758",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46490,7 +46490,7 @@
     ]
   },
   {
-    "video_path": "nexar_00888.mp4",
+    "video_path": "00888",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46575,7 +46575,7 @@
     ]
   },
   {
-    "video_path": "nexar_00590.mp4",
+    "video_path": "00590",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46660,7 +46660,7 @@
     ]
   },
   {
-    "video_path": "nexar_00360.mp4",
+    "video_path": "00360",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46745,7 +46745,7 @@
     ]
   },
   {
-    "video_path": "nexar_00769.mp4",
+    "video_path": "00769",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46830,7 +46830,7 @@
     ]
   },
   {
-    "video_path": "nexar_00722.mp4",
+    "video_path": "00722",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -46915,7 +46915,7 @@
     ]
   },
   {
-    "video_path": "nexar_00996.mp4",
+    "video_path": "00996",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47000,7 +47000,7 @@
     ]
   },
   {
-    "video_path": "nexar_01024.mp4",
+    "video_path": "01024",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47085,7 +47085,7 @@
     ]
   },
   {
-    "video_path": "nexar_00351.mp4",
+    "video_path": "00351",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47170,7 +47170,7 @@
     ]
   },
   {
-    "video_path": "nexar_00235.mp4",
+    "video_path": "00235",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47255,7 +47255,7 @@
     ]
   },
   {
-    "video_path": "nexar_00199.mp4",
+    "video_path": "00199",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47340,7 +47340,7 @@
     ]
   },
   {
-    "video_path": "nexar_00014.mp4",
+    "video_path": "00014",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47425,7 +47425,7 @@
     ]
   },
   {
-    "video_path": "nexar_00170.mp4",
+    "video_path": "00170",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47510,7 +47510,7 @@
     ]
   },
   {
-    "video_path": "nexar_00467.mp4",
+    "video_path": "00467",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47595,7 +47595,7 @@
     ]
   },
   {
-    "video_path": "nexar_00503.mp4",
+    "video_path": "00503",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47680,7 +47680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00850.mp4",
+    "video_path": "00850",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47765,7 +47765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00780.mp4",
+    "video_path": "00780",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47850,7 +47850,7 @@
     ]
   },
   {
-    "video_path": "nexar_00042.mp4",
+    "video_path": "00042",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -47935,7 +47935,7 @@
     ]
   },
   {
-    "video_path": "nexar_00929.mp4",
+    "video_path": "00929",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48005,7 +48005,7 @@
     ]
   },
   {
-    "video_path": "nexar_00431.mp4",
+    "video_path": "00431",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48090,7 +48090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00610.mp4",
+    "video_path": "00610",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48175,7 +48175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00774.mp4",
+    "video_path": "00774",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48260,7 +48260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00493.mp4",
+    "video_path": "00493",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48345,7 +48345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00263.mp4",
+    "video_path": "00263",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48430,7 +48430,7 @@
     ]
   },
   {
-    "video_path": "nexar_01039.mp4",
+    "video_path": "01039",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48515,7 +48515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00184.mp4",
+    "video_path": "00184",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48600,7 +48600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00228.mp4",
+    "video_path": "00228",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48685,7 +48685,7 @@
     ]
   },
   {
-    "video_path": "nexar_00895.mp4",
+    "video_path": "00895",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48770,7 +48770,7 @@
     ]
   },
   {
-    "video_path": "nexar_00745.mp4",
+    "video_path": "00745",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48855,7 +48855,7 @@
     ]
   },
   {
-    "video_path": "nexar_00621.mp4",
+    "video_path": "00621",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -48940,7 +48940,7 @@
     ]
   },
   {
-    "video_path": "nexar_00336.mp4",
+    "video_path": "00336",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49025,7 +49025,7 @@
     ]
   },
   {
-    "video_path": "nexar_01008.mp4",
+    "video_path": "01008",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49110,7 +49110,7 @@
     ]
   },
   {
-    "video_path": "nexar_00252.mp4",
+    "video_path": "00252",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49195,7 +49195,7 @@
     ]
   },
   {
-    "video_path": "nexar_00117.mp4",
+    "video_path": "00117",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49280,7 +49280,7 @@
     ]
   },
   {
-    "video_path": "nexar_00394.mp4",
+    "video_path": "00394",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49365,7 +49365,7 @@
     ]
   },
   {
-    "video_path": "nexar_00918.mp4",
+    "video_path": "00918",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49450,7 +49450,7 @@
     ]
   },
   {
-    "video_path": "nexar_00564.mp4",
+    "video_path": "00564",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49535,7 +49535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00683.mp4",
+    "video_path": "00683",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49620,7 +49620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00953.mp4",
+    "video_path": "00953",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49705,7 +49705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00354.mp4",
+    "video_path": "00354",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49790,7 +49790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00608.mp4",
+    "video_path": "00608",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49875,7 +49875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00727.mp4",
+    "video_path": "00727",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -49960,7 +49960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00643.mp4",
+    "video_path": "00643",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50045,7 +50045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00506.mp4",
+    "video_path": "00506",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50130,7 +50130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00429.mp4",
+    "video_path": "00429",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50215,7 +50215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00931.mp4",
+    "video_path": "00931",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50300,7 +50300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00785.mp4",
+    "video_path": "00785",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50385,7 +50385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00175.mp4",
+    "video_path": "00175",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50470,7 +50470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00292.mp4",
+    "video_path": "00292",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50555,7 +50555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00900.mp4",
+    "video_path": "00900",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50640,7 +50640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00418.mp4",
+    "video_path": "00418",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50725,7 +50725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00864.mp4",
+    "video_path": "00864",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50810,7 +50810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00537.mp4",
+    "video_path": "00537",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50895,7 +50895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00453.mp4",
+    "video_path": "00453",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -50980,7 +50980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00144.mp4",
+    "video_path": "00144",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51065,7 +51065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00201.mp4",
+    "video_path": "00201",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51150,7 +51150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00082.mp4",
+    "video_path": "00082",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51235,7 +51235,7 @@
     ]
   },
   {
-    "video_path": "nexar_00639.mp4",
+    "video_path": "00639",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51320,7 +51320,7 @@
     ]
   },
   {
-    "video_path": "nexar_00589.mp4",
+    "video_path": "00589",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51405,7 +51405,7 @@
     ]
   },
   {
-    "video_path": "nexar_00891.mp4",
+    "video_path": "00891",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51490,7 +51490,7 @@
     ]
   },
   {
-    "video_path": "nexar_00741.mp4",
+    "video_path": "00741",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51575,7 +51575,7 @@
     ]
   },
   {
-    "video_path": "nexar_00625.mp4",
+    "video_path": "00625",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51660,7 +51660,7 @@
     ]
   },
   {
-    "video_path": "nexar_00332.mp4",
+    "video_path": "00332",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51745,7 +51745,7 @@
     ]
   },
   {
-    "video_path": "nexar_00256.mp4",
+    "video_path": "00256",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51830,7 +51830,7 @@
     ]
   },
   {
-    "video_path": "nexar_00158.mp4",
+    "video_path": "00158",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51900,7 +51900,7 @@
     ]
   },
   {
-    "video_path": "nexar_00077.mp4",
+    "video_path": "00077",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -51985,7 +51985,7 @@
     ]
   },
   {
-    "video_path": "nexar_00687.mp4",
+    "video_path": "00687",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52070,7 +52070,7 @@
     ]
   },
   {
-    "video_path": "nexar_00833.mp4",
+    "video_path": "00833",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52155,7 +52155,7 @@
     ]
   },
   {
-    "video_path": "nexar_00957.mp4",
+    "video_path": "00957",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52240,7 +52240,7 @@
     ]
   },
   {
-    "video_path": "nexar_00560.mp4",
+    "video_path": "00560",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52325,7 +52325,7 @@
     ]
   },
   {
-    "video_path": "nexar_00122.mp4",
+    "video_path": "00122",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52410,7 +52410,7 @@
     ]
   },
   {
-    "video_path": "nexar_00046.mp4",
+    "video_path": "00046",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52495,7 +52495,7 @@
     ]
   },
   {
-    "video_path": "nexar_00169.mp4",
+    "video_path": "00169",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52580,7 +52580,7 @@
     ]
   },
   {
-    "video_path": "nexar_00551.mp4",
+    "video_path": "00551",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52665,7 +52665,7 @@
     ]
   },
   {
-    "video_path": "nexar_00435.mp4",
+    "video_path": "00435",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52750,7 +52750,7 @@
     ]
   },
   {
-    "video_path": "nexar_00849.mp4",
+    "video_path": "00849",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52835,7 +52835,7 @@
     ]
   },
   {
-    "video_path": "nexar_00966.mp4",
+    "video_path": "00966",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -52920,7 +52920,7 @@
     ]
   },
   {
-    "video_path": "nexar_00802.mp4",
+    "video_path": "00802",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53005,7 +53005,7 @@
     ]
   },
   {
-    "video_path": "nexar_00497.mp4",
+    "video_path": "00497",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53090,7 +53090,7 @@
     ]
   },
   {
-    "video_path": "nexar_00614.mp4",
+    "video_path": "00614",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53175,7 +53175,7 @@
     ]
   },
   {
-    "video_path": "nexar_00180.mp4",
+    "video_path": "00180",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53260,7 +53260,7 @@
     ]
   },
   {
-    "video_path": "nexar_00348.mp4",
+    "video_path": "00348",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53345,7 +53345,7 @@
     ]
   },
   {
-    "video_path": "nexar_00303.mp4",
+    "video_path": "00303",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53430,7 +53430,7 @@
     ]
   },
   {
-    "video_path": "nexar_00533.mp4",
+    "video_path": "00533",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53515,7 +53515,7 @@
     ]
   },
   {
-    "video_path": "nexar_00457.mp4",
+    "video_path": "00457",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53600,7 +53600,7 @@
     ]
   },
   {
-    "video_path": "nexar_00904.mp4",
+    "video_path": "00904",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53670,7 +53670,7 @@
     ]
   },
   {
-    "video_path": "nexar_00860.mp4",
+    "video_path": "00860",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53740,7 +53740,7 @@
     ]
   },
   {
-    "video_path": "nexar_00024.mp4",
+    "video_path": "00024",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53810,7 +53810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00388.mp4",
+    "video_path": "00388",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53895,7 +53895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00086.mp4",
+    "video_path": "00086",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -53980,7 +53980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00205.mp4",
+    "video_path": "00205",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54065,7 +54065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00361.mp4",
+    "video_path": "00361",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54150,7 +54150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00889.mp4",
+    "video_path": "00889",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54220,7 +54220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00591.mp4",
+    "video_path": "00591",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54305,7 +54305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00712.mp4",
+    "video_path": "00712",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54390,7 +54390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00234.mp4",
+    "video_path": "00234",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54475,7 +54475,7 @@
     ]
   },
   {
-    "video_path": "nexar_00723.mp4",
+    "video_path": "00723",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54535,7 +54535,7 @@
     ]
   },
   {
-    "video_path": "nexar_00647.mp4",
+    "video_path": "00647",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54620,7 +54620,7 @@
     ]
   },
   {
-    "video_path": "nexar_00997.mp4",
+    "video_path": "00997",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54705,7 +54705,7 @@
     ]
   },
   {
-    "video_path": "nexar_00851.mp4",
+    "video_path": "00851",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54790,7 +54790,7 @@
     ]
   },
   {
-    "video_path": "nexar_00935.mp4",
+    "video_path": "00935",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54875,7 +54875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00549.mp4",
+    "video_path": "00549",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -54960,7 +54960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00466.mp4",
+    "video_path": "00466",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55045,7 +55045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00502.mp4",
+    "video_path": "00502",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55130,7 +55130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00296.mp4",
+    "video_path": "00296",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55215,7 +55215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00015.mp4",
+    "video_path": "00015",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55300,7 +55300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00171.mp4",
+    "video_path": "00171",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55385,7 +55385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00483.mp4",
+    "video_path": "00483",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55470,7 +55470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00600.mp4",
+    "video_path": "00600",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55555,7 +55555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00238.mp4",
+    "video_path": "00238",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55640,7 +55640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00194.mp4",
+    "video_path": "00194",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55725,7 +55725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00273.mp4",
+    "video_path": "00273",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55810,7 +55810,7 @@
     ]
   },
   {
-    "video_path": "nexar_00317.mp4",
+    "video_path": "00317",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55895,7 +55895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00136.mp4",
+    "video_path": "00136",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -55980,7 +55980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00019.mp4",
+    "video_path": "00019",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56065,7 +56065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00972.mp4",
+    "video_path": "00972",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56150,7 +56150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00816.mp4",
+    "video_path": "00816",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56220,7 +56220,7 @@
     ]
   },
   {
-    "video_path": "nexar_00028.mp4",
+    "video_path": "00028",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56305,7 +56305,7 @@
     ]
   },
   {
-    "video_path": "nexar_00063.mp4",
+    "video_path": "00063",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56390,7 +56390,7 @@
     ]
   },
   {
-    "video_path": "nexar_00827.mp4",
+    "video_path": "00827",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56475,7 +56475,7 @@
     ]
   },
   {
-    "video_path": "nexar_00943.mp4",
+    "video_path": "00943",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56560,7 +56560,7 @@
     ]
   },
   {
-    "video_path": "nexar_00693.mp4",
+    "video_path": "00693",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56645,7 +56645,7 @@
     ]
   },
   {
-    "video_path": "nexar_00410.mp4",
+    "video_path": "00410",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56730,7 +56730,7 @@
     ]
   },
   {
-    "video_path": "nexar_00574.mp4",
+    "video_path": "00574",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56815,7 +56815,7 @@
     ]
   },
   {
-    "video_path": "nexar_00755.mp4",
+    "video_path": "00755",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56875,7 +56875,7 @@
     ]
   },
   {
-    "video_path": "nexar_00885.mp4",
+    "video_path": "00885",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -56960,7 +56960,7 @@
     ]
   },
   {
-    "video_path": "nexar_00326.mp4",
+    "video_path": "00326",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57045,7 +57045,7 @@
     ]
   },
   {
-    "video_path": "nexar_00242.mp4",
+    "video_path": "00242",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57130,7 +57130,7 @@
     ]
   },
   {
-    "video_path": "nexar_00209.mp4",
+    "video_path": "00209",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57215,7 +57215,7 @@
     ]
   },
   {
-    "video_path": "nexar_00795.mp4",
+    "video_path": "00795",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57300,7 +57300,7 @@
     ]
   },
   {
-    "video_path": "nexar_00845.mp4",
+    "video_path": "00845",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57385,7 +57385,7 @@
     ]
   },
   {
-    "video_path": "nexar_00921.mp4",
+    "video_path": "00921",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57470,7 +57470,7 @@
     ]
   },
   {
-    "video_path": "nexar_00472.mp4",
+    "video_path": "00472",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57555,7 +57555,7 @@
     ]
   },
   {
-    "video_path": "nexar_00516.mp4",
+    "video_path": "00516",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57640,7 +57640,7 @@
     ]
   },
   {
-    "video_path": "nexar_00282.mp4",
+    "video_path": "00282",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57725,7 +57725,7 @@
     ]
   },
   {
-    "video_path": "nexar_00344.mp4",
+    "video_path": "00344",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57810,7 +57810,7 @@
     ]
   },
   {
-    "video_path": "nexar_01031.mp4",
+    "video_path": "01031",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57895,7 +57895,7 @@
     ]
   },
   {
-    "video_path": "nexar_00983.mp4",
+    "video_path": "00983",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -57980,7 +57980,7 @@
     ]
   },
   {
-    "video_path": "nexar_00737.mp4",
+    "video_path": "00737",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58065,7 +58065,7 @@
     ]
   },
   {
-    "video_path": "nexar_00653.mp4",
+    "video_path": "00653",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58150,7 +58150,7 @@
     ]
   },
   {
-    "video_path": "nexar_00618.mp4",
+    "video_path": "00618",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58235,7 +58235,7 @@
     ]
   },
   {
-    "video_path": "nexar_01000.mp4",
+    "video_path": "01000",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58320,7 +58320,7 @@
     ]
   },
   {
-    "video_path": "nexar_00375.mp4",
+    "video_path": "00375",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58405,7 +58405,7 @@
     ]
   },
   {
-    "video_path": "nexar_00585.mp4",
+    "video_path": "00585",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58490,7 +58490,7 @@
     ]
   },
   {
-    "video_path": "nexar_00629.mp4",
+    "video_path": "00629",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58575,7 +58575,7 @@
     ]
   },
   {
-    "video_path": "nexar_00527.mp4",
+    "video_path": "00527",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58660,7 +58660,7 @@
     ]
   },
   {
-    "video_path": "nexar_00443.mp4",
+    "video_path": "00443",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58745,7 +58745,7 @@
     ]
   },
   {
-    "video_path": "nexar_00910.mp4",
+    "video_path": "00910",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58830,7 +58830,7 @@
     ]
   },
   {
-    "video_path": "nexar_00874.mp4",
+    "video_path": "00874",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -58915,7 +58915,7 @@
     ]
   },
   {
-    "video_path": "nexar_00408.mp4",
+    "video_path": "00408",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59000,7 +59000,7 @@
     ]
   },
   {
-    "video_path": "nexar_00154.mp4",
+    "video_path": "00154",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59085,7 +59085,7 @@
     ]
   },
   {
-    "video_path": "nexar_00103.mp4",
+    "video_path": "00103",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59170,7 +59170,7 @@
     ]
   },
   {
-    "video_path": "nexar_00148.mp4",
+    "video_path": "00148",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59255,7 +59255,7 @@
     ]
   },
   {
-    "video_path": "nexar_00380.mp4",
+    "video_path": "00380",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59340,7 +59340,7 @@
     ]
   },
   {
-    "video_path": "nexar_00868.mp4",
+    "video_path": "00868",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59425,7 +59425,7 @@
     ]
   },
   {
-    "video_path": "nexar_00414.mp4",
+    "video_path": "00414",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59510,7 +59510,7 @@
     ]
   },
   {
-    "video_path": "nexar_00570.mp4",
+    "video_path": "00570",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59595,7 +59595,7 @@
     ]
   },
   {
-    "video_path": "nexar_00823.mp4",
+    "video_path": "00823",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59680,7 +59680,7 @@
     ]
   },
   {
-    "video_path": "nexar_00947.mp4",
+    "video_path": "00947",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59765,7 +59765,7 @@
     ]
   },
   {
-    "video_path": "nexar_00697.mp4",
+    "video_path": "00697",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59850,7 +59850,7 @@
     ]
   },
   {
-    "video_path": "nexar_00751.mp4",
+    "video_path": "00751",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -59935,7 +59935,7 @@
     ]
   },
   {
-    "video_path": "nexar_00635.mp4",
+    "video_path": "00635",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60020,7 +60020,7 @@
     ]
   },
   {
-    "video_path": "nexar_00599.mp4",
+    "video_path": "00599",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60105,7 +60105,7 @@
     ]
   },
   {
-    "video_path": "nexar_00881.mp4",
+    "video_path": "00881",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60190,7 +60190,7 @@
     ]
   },
   {
-    "video_path": "nexar_00369.mp4",
+    "video_path": "00369",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60275,7 +60275,7 @@
     ]
   },
   {
-    "video_path": "nexar_00604.mp4",
+    "video_path": "00604",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60360,7 +60360,7 @@
     ]
   },
   {
-    "video_path": "nexar_00487.mp4",
+    "video_path": "00487",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60445,7 +60445,7 @@
     ]
   },
   {
-    "video_path": "nexar_00313.mp4",
+    "video_path": "00313",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60530,7 +60530,7 @@
     ]
   },
   {
-    "video_path": "nexar_00358.mp4",
+    "video_path": "00358",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60615,7 +60615,7 @@
     ]
   },
   {
-    "video_path": "nexar_00190.mp4",
+    "video_path": "00190",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60700,7 +60700,7 @@
     ]
   },
   {
-    "video_path": "nexar_00179.mp4",
+    "video_path": "00179",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60785,7 +60785,7 @@
     ]
   },
   {
-    "video_path": "nexar_00132.mp4",
+    "video_path": "00132",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60870,7 +60870,7 @@
     ]
   },
   {
-    "video_path": "nexar_00056.mp4",
+    "video_path": "00056",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -60955,7 +60955,7 @@
     ]
   },
   {
-    "video_path": "nexar_00976.mp4",
+    "video_path": "00976",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61040,7 +61040,7 @@
     ]
   },
   {
-    "video_path": "nexar_00541.mp4",
+    "video_path": "00541",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61125,7 +61125,7 @@
     ]
   },
   {
-    "video_path": "nexar_00859.mp4",
+    "video_path": "00859",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61210,7 +61210,7 @@
     ]
   },
   {
-    "video_path": "nexar_00425.mp4",
+    "video_path": "00425",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61295,7 +61295,7 @@
     ]
   },
   {
-    "video_path": "nexar_00789.mp4",
+    "video_path": "00789",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61380,7 +61380,7 @@
     ]
   },
   {
-    "video_path": "nexar_00371.mp4",
+    "video_path": "00371",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61465,7 +61465,7 @@
     ]
   },
   {
-    "video_path": "nexar_00096.mp4",
+    "video_path": "00096",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61550,7 +61550,7 @@
     ]
   },
   {
-    "video_path": "nexar_01004.mp4",
+    "video_path": "01004",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61635,7 +61635,7 @@
     ]
   },
   {
-    "video_path": "nexar_00666.mp4",
+    "video_path": "00666",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61720,7 +61720,7 @@
     ]
   },
   {
-    "video_path": "nexar_00702.mp4",
+    "video_path": "00702",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61805,7 +61805,7 @@
     ]
   },
   {
-    "video_path": "nexar_00581.mp4",
+    "video_path": "00581",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61890,7 +61890,7 @@
     ]
   },
   {
-    "video_path": "nexar_00568.mp4",
+    "video_path": "00568",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -61975,7 +61975,7 @@
     ]
   },
   {
-    "video_path": "nexar_00914.mp4",
+    "video_path": "00914",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62060,7 +62060,7 @@
     ]
   },
   {
-    "video_path": "nexar_00523.mp4",
+    "video_path": "00523",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62145,7 +62145,7 @@
     ]
   },
   {
-    "video_path": "nexar_00447.mp4",
+    "video_path": "00447",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62230,7 +62230,7 @@
     ]
   },
   {
-    "video_path": "nexar_00398.mp4",
+    "video_path": "00398",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62315,7 +62315,7 @@
     ]
   },
   {
-    "video_path": "nexar_00512.mp4",
+    "video_path": "00512",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62400,7 +62400,7 @@
     ]
   },
   {
-    "video_path": "nexar_00791.mp4",
+    "video_path": "00791",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62485,7 +62485,7 @@
     ]
   },
   {
-    "video_path": "nexar_00841.mp4",
+    "video_path": "00841",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62570,7 +62570,7 @@
     ]
   },
   {
-    "video_path": "nexar_00005.mp4",
+    "video_path": "00005",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62655,7 +62655,7 @@
     ]
   },
   {
-    "video_path": "nexar_00286.mp4",
+    "video_path": "00286",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62740,7 +62740,7 @@
     ]
   },
   {
-    "video_path": "nexar_01035.mp4",
+    "video_path": "01035",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62825,7 +62825,7 @@
     ]
   },
   {
-    "video_path": "nexar_00188.mp4",
+    "video_path": "00188",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62910,7 +62910,7 @@
     ]
   },
   {
-    "video_path": "nexar_00340.mp4",
+    "video_path": "00340",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -62995,7 +62995,7 @@
     ]
   },
   {
-    "video_path": "nexar_00224.mp4",
+    "video_path": "00224",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -63080,7 +63080,7 @@
     ]
   },
   {
-    "video_path": "nexar_00733.mp4",
+    "video_path": "00733",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",
@@ -63165,7 +63165,7 @@
     ]
   },
   {
-    "video_path": "nexar_00657.mp4",
+    "video_path": "00657",
     "qa_pairs": [
       {
         "benchmark": "Dense Captioning",

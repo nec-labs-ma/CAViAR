@@ -24,6 +24,6 @@ python scripts/evaluate_results.py --results examples/sample_results.json --skip
 | `evaluate_qwen3_holdout.py` | Holdout inference (**requires holdout data obtained separately**) |
 
 ```bash
-export CAVIAR_VIDEO_ROOT=/path/to/nexar/videos
+export CAVIAR_VIDEO_ROOT=/path/to/nexar_collision_prediction
 export CAVIAR_VLMEVALKIT_PATH=/path/to/VLMEvalKit   # optional judge
 ```

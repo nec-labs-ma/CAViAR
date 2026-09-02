@@ -6,9 +6,9 @@ A human-annotated dashcam benchmark for fine-grained accident understanding and 
 
 Paper: *CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios*.
 
-Code and annotations: [https://github.com/nec-labs-ma/CAViAR](https://github.com/nec-labs-ma/CAViAR)
+Code and annotations: [https://github.com/nec-labs-ma/CAViAR](https://github.com/nec-labs-ma/CAViAR) · Val/test on Hugging Face: [sparshgarg57/CAViAR](https://huggingface.co/datasets/sparshgarg57/CAViAR)
 
-> **Public release (this repository):** validation/test annotations for the **Nexar** split (**749 videos**). Train/holdout annotations are not redistributed here. Source videos come from [CCD](https://github.com/Cogito2012/CarCrashDataset) (train) and [Nexar](https://www.nexar.com/) (val/test). This repository **does not redistribute the full video corpora**.
+> **Public release (this repository):** validation/test annotations for the **Nexar** split (**749 videos**). Train/holdout annotations are not redistributed here. Source videos come from [CCD](https://github.com/Cogito2012/CarCrashDataset) (train) and [nexar-ai/nexar_collision_prediction](https://huggingface.co/datasets/nexar-ai/nexar_collision_prediction) (val/test). This repository **does not redistribute the full video corpora**.
 
 ## What is CAViAR?
 
@@ -23,11 +23,11 @@ CAViAR exposes a **Perception–Reasoning Gap**: VLMs can often recognize contex
 
 ## Example (Nexar)
 
-Preview of **`nexar_00284.mp4`** (loops in the README):
+Preview of Nexar clip **`00284`** (loops in the README):
 
-![Preview of nexar_00284.mp4 from the Nexar dataset](examples/nexar_00284.gif)
+![Preview of Nexar video 00284](examples/nexar_00284.gif)
 
-**Source video:** `nexar_00284.mp4` from the **Nexar** dashcam dataset ([Moura et al., 2025](https://www.nexar.com/)). This is a short looping preview of the collision window; we do **not** redistribute the Nexar corpus. Obtain clips under the original Nexar license and place them under `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Compact mp4 preview: [`examples/nexar_00284_preview.mp4`](examples/nexar_00284_preview.mp4). Full annotations: [`examples/nexar_00284_annotations.json`](examples/nexar_00284_annotations.json).
+**Source video:** id `00284` (`00284.mp4`) from [nexar-ai/nexar_collision_prediction](https://huggingface.co/datasets/nexar-ai/nexar_collision_prediction) ([Moura et al., 2025](https://arxiv.org/abs/2503.03848)). This is a short looping preview of the collision window; we do **not** redistribute the Nexar corpus. Place downloaded mp4s under `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Compact mp4 preview: [`examples/nexar_00284_preview.mp4`](examples/nexar_00284_preview.mp4). Full annotations: [`examples/nexar_00284_annotations.json`](examples/nexar_00284_annotations.json).
 
 | Field | Annotation |
 |-------|------------|
@@ -89,12 +89,12 @@ python scripts/evaluate_results.py --results examples/sample_results.json --skip
 
 ## Using the Nexar val/test videos
 
-1. Download Nexar clips under the original Nexar license.
-2. Put mp4 files in `data/videos/` (or set `CAVIAR_VIDEO_ROOT`). Filenames must match `data/test.json` (e.g. `nexar_00284.mp4`).
+1. Download clips from [nexar-ai/nexar_collision_prediction](https://huggingface.co/datasets/nexar-ai/nexar_collision_prediction) under the Nexar Open Data License.
+2. Point `CAVIAR_VIDEO_ROOT` at that download (the Nexar folder layout `train/` / `test-public/` / `test-private/` is fine). `video_path` in `data/test.json` is the numeric id (e.g. `00284` → `00284.mp4`).
 3. Run a VLM on the released val/test split, then score predictions:
 
 ```bash
-export CAVIAR_VIDEO_ROOT=/path/to/nexar/videos
+export CAVIAR_VIDEO_ROOT=/path/to/nexar_collision_prediction
 
 python scripts/evaluate_qwen3.py --model 2B
 python scripts/evaluate_results.py \
@@ -127,7 +127,7 @@ Details: [docs/tasks.md](docs/tasks.md), [docs/prompts.md](docs/prompts.md), [do
 }
 ```
 
-Please also cite the **Nexar** source dataset when using the released val/test videos or the example above (Moura et al., 2025).
+Please also cite **Nexar** when using the val/test videos ([nexar-ai/nexar_collision_prediction](https://huggingface.co/datasets/nexar-ai/nexar_collision_prediction); Moura et al., 2025).
 
 ## Ethics
 

@@ -6,12 +6,12 @@ The public release includes the **Nexar val/test** split in `data/test.json`. Se
 
 ```json
 {
-  "video_path": "nexar_00284.mp4",
+  "video_path": "00284",
   "qa_pairs": [ /* list of QA objects */ ]
 }
 ```
 
-`video_path` is the **filename** of a locally available Nexar clip (e.g. `nexar_00284.mp4`). Scripts resolve it via `CAVIAR_VIDEO_ROOT` (default `data/videos/`).
+`video_path` is the **numeric Nexar clip id** (e.g. `00284`). It matches `{id}.mp4` in [nexar-ai/nexar_collision_prediction](https://huggingface.co/datasets/nexar-ai/nexar_collision_prediction). Scripts resolve it via `CAVIAR_VIDEO_ROOT` (default `data/videos/`).
 
 ## QA object (common fields)
 
